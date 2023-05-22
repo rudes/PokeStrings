@@ -12,6 +12,7 @@ PokéMMO custom strings to skip or shorten dialogue. Does not remove PokéMMO st
 - [ ] Safari Zones
 - [x] Berry Farming
 - [x] Pokémon Centers
+- [ ] Various Vendors
 - [x] Region Change Ferry
 - [x] Mushroom Move Master
 - [x] Pickup/Found and Hordes
@@ -22,3 +23,6 @@ PokéMMO custom strings to skip or shorten dialogue. Does not remove PokéMMO st
 	- [ ] Trainers
 
 ## Install
+
+1. Copy **ONLY** the XML files to your `...\PokeMMO\data\strings` folder
+2. Set language in game to English
