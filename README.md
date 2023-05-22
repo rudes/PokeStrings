@@ -8,17 +8,17 @@ PokéMMO custom strings to skip or shorten dialogue. Does not remove PokéMMO st
 
 ## Support
 
-- [] Breeding
-- [] Safari Zones
+- [ ] Breeding
+- [ ] Safari Zones
 - [x] Berry Farming
 - [x] Pokémon Centers
 - [x] Region Change Ferry
 - [x] Mushroom Move Master
 - [x] Pickup/Found and Hordes
 - [x] Overworld HMs and Ocarinas
-- [] Post-game
-	- [] Gym Leaders
-	- [] Elite Four
-	- [] Trainers
+- [ ] Post-game
+	- [ ] Gym Leaders
+	- [ ] Elite Four
+	- [ ] Trainers
 
 ## Install
