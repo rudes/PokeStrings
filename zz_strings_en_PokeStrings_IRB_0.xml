@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ds_strings_archive archive_type="0" is_primary="0" lang="en" region_id="2">
+	<!--
+		Strings used in Unova found in the dump_IRB_0_en.xml
+	-->
+	<!-- "{00} used\n{01}!" ex: fly -->
+	<string block_id="0" entry_id="52" table_id="8">\n</string>
+	<string block_id="0" entry_id="53" table_id="8">\n</string>
+</ds_strings_archive>
