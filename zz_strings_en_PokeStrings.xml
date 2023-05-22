@@ -90,21 +90,24 @@
 	<string id="5021">!HORDE!</string> 
 	<!-- Feinting multiple Pokemon at once -->
 	<string id="200436">{01} at once!</string>
+
 	<!-- Pickup Ability -->
 	<string id="6066">picked up {01}!</string>
 	<!-- Player Found Items -->
 	<string id="6063">Found {00}!</string>
 	<string id="6062">{00} found {01}!</string>
+
 	<!-- PvP short battle stats -->
 	<string id="5200">Turn #{00}</string>
 	<string id="5201">Time: {00}</string>
+
 	<!-- Mailman -->
 	<string id="16780150">Send mail?</string>
 	<string id="16780151">{01}, you have mail!</string>
+
 	<!-- Battlepoint Vendors -->
 	<string id="270923770"> <!-- Shop --></string>
 	<string id="270925586"> <!-- Goodbye --></string>
-
 
 	<!-- General Breeding -->
 	<string id="16779080">Breed?</string>
@@ -118,10 +121,10 @@
 	<string id="16777221">Which {STRING_245004}?<!-- pokeball --></string>
 	<!-- Bracer Vendor -->
 	<string id="16779070"> </string>
-	<!--Egg Stuff Kanto-->
+	<!--Breeding Egg Messages - Kanto-->
 	<string id="1832746"> <!-- received EGG --></string>
 	<string id="1832789"> <!-- take care --></string>
-	<!--Egg Stuff Hoenn-->
+	<!--Breeding Egg Messages - Hoenn-->
 	<string id="271131044"> <!-- received EGG --></string>
 	<string id="271131087"> <!-- take care --></string>
 

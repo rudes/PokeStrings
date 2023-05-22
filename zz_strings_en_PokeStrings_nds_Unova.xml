@@ -3,4 +3,57 @@
 	<!--
 		Strings used in Unova found in the dump_IRB_1_en.xml
 	-->
+	<!-- Fishing -->
+	<string block_id="0" entry_id="3" table_id="263">!</string>
+	<string block_id="0" entry_id="4" table_id="263">..</string>
+
+	<!-- Fossil hatching -->
+	<string block_id="0" entry_id="0" table_id="285"> <!-- Greeting --></string>
+	<string block_id="0" entry_id="1" table_id="285">Convert Fossil?</string>
+	<string block_id="0" entry_id="2" table_id="285">Which Fossil?</string>
+	<string block_id="0" entry_id="3" table_id="285">Wait.<!-- accept --></string>
+	<string block_id="0" entry_id="4" table_id="285"> <!-- decline --></string>
+	<string block_id="0" entry_id="6" table_id="285">GG.</string>
+	<string block_id="0" entry_id="7" table_id="285"> <!-- collected pokemon --></string>
+	<string block_id="0" entry_id="8" table_id="285">Nickname?</string>
+	<string block_id="0" entry_id="9" table_id="285">Party is full.</string>
+	<string block_id="0" entry_id="10" table_id="285">Bring me a Fossil.</string>
+
+	<!--Pokémon Center-->
+	<string block_id="0" entry_id="0" table_id="346"> </string>
+	<string block_id="0" entry_id="1" table_id="346"> </string>
+	<string block_id="0" entry_id="2" table_id="346"> </string>
+	<string block_id="0" entry_id="6" table_id="346"> </string>
+	<string block_id="0" entry_id="7" table_id="346"> </string>
+	<string block_id="0" entry_id="8" table_id="346"> </string>
+	<string block_id="0" entry_id="9" table_id="346"> </string>
+	<!-- Vendors -->
+	<string block_id="0" entry_id="0" table_id="424"> <!-- Shop --></string>
+	<string block_id="0" entry_id="3" table_id="424"> <!-- Goodbye --></string>
+
+	<!-- Breeding Egg Messages -->
+	<string block_id="0" entry_id="7" table_id="426"> <!-- received egg --></string>
+	<string block_id="0" entry_id="8" table_id="426"> <!-- take care --></string>
+	<string block_id="0" entry_id="9" table_id="426">Party is full.</string>
+
+	<!-- HMs -->
+	<string block_id="0" entry_id="0" table_id="280">Cut?</string>
+	<string block_id="0" entry_id="1" table_id="280"> <!-- used cut --></string>
+	<string block_id="0" entry_id="2" table_id="280">No Cut.</string>
+	<string block_id="0" entry_id="6" table_id="280">Strength?</string>
+	<string block_id="0" entry_id="10" table_id="280"> <!-- used strength --></string>
+	<string block_id="0" entry_id="8" table_id="280">No Strength.</string>
+	<string block_id="0" entry_id="13" table_id="280">Surf?</string>
+	<string block_id="0" entry_id="14" table_id="280"> <!-- used surf --></string>
+	<string block_id="0" entry_id="23" table_id="280">Waterfall?</string>
+	<string block_id="0" entry_id="24" table_id="280"> <!-- used waterfall --></string>
+	<string block_id="0" entry_id="25" table_id="280">No Waterfall.</string>
+	<string block_id="0" entry_id="31" table_id="280">Dive?</string>
+	<string block_id="0" entry_id="32" table_id="280"> <!-- used dive --></string>
+	<string block_id="0" entry_id="30" table_id="280">No Dive.</string>
+	<string block_id="0" entry_id="27" table_id="280"> <!-- used flash --></string>
+	<string block_id="0" entry_id="28" table_id="280"> <!-- used teleport --></string>
+	<string block_id="0" entry_id="29" table_id="280"> <!-- used dig --></string>
+	<string block_id="0" entry_id="9" table_id="280"> <!-- strength enabled --></string>
+	<string block_id="0" entry_id="11" table_id="280"> <!-- strength enabled --></string>
 </ds_strings_archive>
