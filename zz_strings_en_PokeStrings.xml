@@ -4,6 +4,229 @@
 		Strings used in Kanto and Hoenn found in the
 		dump_BPR_en.xml and dump_BPE_en.xml files respectively.
 	-->
+	<!-- Horde -->
+	<string id="5021">!HORDE!</string> 
+	<!-- Feinting multiple Pokemon at once -->
+	<string id="200436">{01} at once!</string>
+
+	<!-- Pickup Ability -->
+	<string id="6066">picked up {01}!</string>
+	<!-- Player Found Items -->
+	<string id="6063">Found {00}!</string>
+	<string id="6062">{00} found {01}!</string>
+
+	<!-- PvP short battle stats -->
+	<string id="5200">Turn #{00}</string>
+	<string id="5201">Time: {00}</string>
+
+	<!-- Mailman -->
+	<string id="16780150">Send mail?</string>
+	<string id="16780151">{01}, you have mail!</string>
+
+	<!-- Hoenn - Battlepoint Vendors -->
+	<string id="270923770"> <!-- Shop --></string>
+	<string id="270925586"> <!-- Goodbye --></string>
+
+	<!-- Kanto - Nurse Mom -->
+	<string id="1627089">Rest?</string>
+	<string id="1627128"> <!-- Goodbye --></string>
+
+	<!-- Hoenn - Nurse Mom -->
+	<string id="270499080">Rest?</string>
+	<string id="270499164"> <!-- Goodbye --></string>
+
+	<!-- General Breeding -->
+	<string id="16779080">Breed?</string>
+	<string id="16779081">Not enough {STRING_0}...<!-- only one pokemon --></string>
+	<string id="16779082">Positive?</string>
+	<string id="16779083"> <!-- which pokemon --></string>
+	<string id="16779087">Egg?</string>
+	<string id="16779091">♂/♀?</string>
+	<string id="16779092">♂/♀?</string>
+	<string id="16779093">+${00}?</string>
+	<string id="16777221">Which {STRING_245004}?<!-- pokeball --></string>
+	<!-- Bracer Vendor -->
+	<string id="16779070"> </string>
+	<!--Breeding Egg Messages - Kanto-->
+	<string id="1832746"> <!-- received EGG --></string>
+	<string id="1832789"> <!-- take care --></string>
+	<!--Breeding Egg Messages - Hoenn-->
+	<string id="271131044"> <!-- received EGG --></string>
+	<string id="271131087"> <!-- take care --></string>
+
+	<!-- PC Text -->
+	<string id="2350">PC</string>
+	<!-- Kanto Pokecenter -->
+	<string id="1725571"> </string>
+	<string id="1725665"> </string>
+	<string id="1725713"> </string>
+	<string id="1725739"> </string>
+	<!-- Kanto Vendors -->
+	<string id="1729041"> <!-- Shop --></string>
+	<string id="1724816"> <!-- Goodbye --></string>
+	<!-- Hoenn Pokecenter -->
+	<string id="271001323"> </string>
+	<string id="271001496"> </string>
+	<string id="271001563"> </string>
+	<string id="271002048"> </string>
+	<string id="271001589"> </string>
+	<!-- Hoenn Vendors -->
+	<string id="271002145"> <!-- Shop --></string>
+	<string id="271002175"> <!-- Goodbye --></string>
+
+	<!-- Mom Region Return -->
+	<string id="16780130">Miss {00}?</string>
+	<!-- Region Ferry -->
+	<string id="16780100">Travel?</string>
+	<string id="16780102">Leaving will send your {STRING_0} to the PC.</string>
+	<string id="16780103"> </string>
+	<string id="16780104"> </string>
+	<string id="16780105">PC is full.</string>
+
+	<!-- Mushroom Move Master -->
+	<string id="16778100">I'm the Move Maniac.</string>
+	<string id="16778102">need {00}(s)</string>
+	<string id="16778103">need {00}(s)/{01}(s)</string>
+	<string id="1715299"> </string>
+	<string id="1715523"> </string>
+	<string id="1715680"> </string>
+	<string id="1715589"> </string>
+	<string id="1715635"> </string>
+
+	<!-- HMs -->
+	<!-- Restore PP -->
+	<string id="8600">+PP {01}?</string>
+	<!-- Ocarina Text -->
+	<string id="16780155">\n</string>
+	<!-- Hoenn - Cut -->
+	<string id="271124270">Cut?</string>
+	<string id="271124337"> </string>
+	<string id="271124349">No Cut</string>
+	<!-- Hoenn - Surf -->
+	<string id="271003606">Surf?</string>
+	<string id="271003661"> </string>
+	<!-- Hoenn - Rocksmash -->
+	<string id="271124538">SMASH?</string>
+	<string id="271124607">No Rocksmash</string>
+	<!-- Hoenn - Strength -->
+	<string id="271124780">STRENGTH?</string>
+	<string id="271124876"> </string>
+	<string id="271124950">No Strength</string>
+	<string id="271125014"> </string>
+	<!-- Hoenn - Dive -->
+	<string id="271125418">No Dive</string>
+	<string id="271125480">DIVE?</string>
+	<string id="271125530"> </string>
+	<string id="271125544">No Dive</string>
+	<string id="271125614">DIVE?</string>
+	<!-- Hoenn - Waterfall -->
+	<string id="271125134">No Waterfall</string>
+	<string id="271125187">WATERFALL?</string>
+	<string id="271125244"> </string>
+
+	<!-- Kanto - Surf -->
+	<string id="1725806">SURF?</string>
+	<string id="1725861"> </string>
+	<!-- Kanto - Strength -->
+	<string id="1827226">STRENGTH?</string>
+	<string id="1827322"> </string>
+	<string id="1827396">No Strength</string>
+	<string id="1827460"> </string>
+	<!-- Kanto - Waterfall -->
+	<string id="1827594">No Waterfall</string>
+	<string id="1827647">WATERFALL?</string>
+	<string id="1827704"> </string>
+	<!-- Kanto - Dive -->
+	<string id="1827883">No Dive</string>
+	<string id="1827945">DIVE?</string>
+	<string id="1827995"> </string>
+	<string id="1828009">No Dive</string>
+	<string id="1828079">DIVE?</string>
+	<!-- Kanto - Cut -->
+	<string id="1826708">Cut?</string>
+	<string id="1826775"> </string>
+	<string id="1826787"> </string>
+	<!-- Kanto - Rocksmash -->
+	<string id="1826973">SMASH?</string>
+	<string id="1827042">No Rocksmash</string>
+
+	<!-- Safari -->
+	<!-- Combat Menu -->
+	<string id="5109">Ball ({00})</string>
+	<string id="5100">Fight</string>
+	<string id="5104">Bag</string>
+	<string id="5106">Run</string>
+	<string id="5108">Ball</string>
+	<string id="5118">Mud</string>
+	<string id="5110">Stone</string>
+	<string id="5112">Bait</string>
+	<string id="5114">Shift</string>
+	<string id="5116">Forfeit</string>
+	<string id="5120">Summary</string>
+	<!-- Kanto Safari Zone -->
+	<string id="1670251">SAFARI ZONE!</string>
+	<string id="1670279">$500?</string>
+	<string id="1670407"> </string>
+	<string id="1670480"> </string>
+	<string id="1670528">Good Luck!</string>
+	<string id="1670633">Goodbye!</string>
+	<string id="1670658">Not enough money!</string>
+	<string id="1670682">Leaving early?</string>
+	<string id="1670728"> </string>
+	<string id="1670778">Good luck!</string>
+	<string id="1670789">Come again!</string>
+	<!-- Hoenn Safari Zone -->
+	<string id="271208308">$500?</string>
+	<string id="271208475"> </string>
+	<string id="271208502"> </string>
+	<string id="271208530"> </string>
+	<string id="271208559"> </string>
+	<string id="271207462">Time's Up!</string>
+	<string id="271207510">Out of Balls.</string>
+	<!-- trainer blocking door -->
+	<string id="271209131">Good luck!</string>
+	<string id="271208916">Leaving early?</string>
+	<string id="271209032">Okay.<!-- yes --></string>
+	<string id="271208986">Good luck!<!-- no --></string>
+
+	<!-- Berries -->
+	<string id="4">Berries</string>
+	<string id="300014">Berries</string>
+	<string id="310018">Berries</string>
+
+	<string id="16780309">Planted.</string>
+	<string id="16780310">planted..</string>
+	<string id="16780311">sprouted.</string>
+	<string id="16780312">seeds</string>
+	<string id="16780313">sapling</string>
+
+	<string id="16780315">Dry.</string>
+	<string id="16780316">Moist.</string>
+	<string id="16780317">Wet.</string>
+	<string id="16780318">Flooded.</string>
+
+	<string id="16780320">Almost dry.</string>
+	<string id="16780321">Almost flooded.</string>
+	<string id="16780326">Plant?</string>
+	<string id="16780327">Water{00}?</string>
+	<string id="16780328">Watered.</string>
+
+	<string id="16780329">{01} {00}!\n\nPick? {00}?</string>
+	<string id="16780330">You did not pick the {00}.</string>
+	<string id="16780331">{01} {02}.</string>
+
+	<string id="16780335">Dry.</string>
+	<string id="16780336">Almost dry.</string>
+	<string id="16780337">Moist.</string>
+	<string id="16780338">Wet.</string>
+	<string id="16780339">Almost flooded.</string>
+	<string id="16780340">Flooded.</string>
+
+	<string id="16780350">excellently</string>
+	<string id="16780351">beautifully</string>
+	<string id="16780352">nicely</string>
+	<string id="16780353">poorly</string>
+
 	<!-- GYM LEADERS -->
 	<!-- Kanto - Pewter City - Brock -->
 	<string id="1641684"> <!-- Challenge --></string>
@@ -86,218 +309,73 @@
 	<string id="270686072">On Cooldown...</string>
 	<string id="270687048">Only one {STRING_0}?</string>
 
-	<!-- Horde -->
-	<string id="5021">!HORDE!</string> 
-	<!-- Feinting multiple Pokemon at once -->
-	<string id="200436">{01} at once!</string>
+	<!-- ELITE FOUR -->
+	<!-- Kanto - Elite 4 - Warden -->
+	<string id="1681624">Good luck!</string>
+	<!-- May support all Wardens -->
+	<string id="16777231">Return in\n{00}.</string>
+	<!-- Kanto - Elite 4 - Lorelei -->
+	<string id="1540233"> <!-- Challenge --></string>
+	<string id="1540497"> <!-- Victory --></string>
+	<string id="1540528">On cooldown...</string>
+	<!-- Kanto - Elite 4 - Bruno -->
+	<string id="1540623">Bruno Story?</string>
+	<string id="1540876">Bruno Post Story?</string>
+	<string id="1541129"> <!-- Victory --></string>
+	<string id="1541152">On cooldown...</string>
+	<!-- Kanto - Elite 4 - Agatha -->
+	<string id="1541197"> <!-- Challenge --></string>
+	<string id="1541847"> <!-- Victory --></string>
+	<string id="1541888">On cooldown...</string>
+	<!-- Kanto - Elite 4 - Lance -->
+	<string id="1542333"> <!-- Challenge --></string>
+	<string id="1542677"> <!-- Victory --></string>
+	<string id="1542738">On cooldown...</string>
+	<!-- Kanto - Elite 4 - Rival -->
+	<string id="1543380"> <!-- lol im literally god --></string>
+	<string id="1543743"> <!-- no one makes me bleed my own blood. --></string>
+	<string id="1543983"> <!-- I'm a big cry baby wah. --></string>
+	<!-- Kanto - Elite 4 - Oak -->
+	<string id="1544134"> <!-- Greeting --></string>
+	<string id="1544143"> <!-- You Won! --></string>
+	<string id="1544335"> <!-- Ur trash Gary --></string>
+	<string id="1544611"> <!-- I LOVE POKEMON --></string>
+	<string id="1544751"> <!-- Hall of famer! --></string>
 
-	<!-- Pickup Ability -->
-	<string id="6066">picked up {01}!</string>
-	<!-- Player Found Items -->
-	<string id="6063">Found {00}!</string>
-	<string id="6062">{00} found {01}!</string>
+	<!-- Hoenn - Elite 4 - Warden -->
+	<string id="270702312">Good luck.</string>
+	<!-- Hoenn - Elite 4 - Sidney -->
+	<string id="270696359"> <!-- Challenge --></string>
+	<string id="270696610"> <!-- Victory --></string>
+	<string id="270696684">On Cooldown...</string>
+	<!-- Hoenn - Elite 4 - Phoebe -->
+	<string id="270696974"> <!-- Challenge --></string>
+	<string id="270697253"> <!-- Victory --></string>
+	<string id="270697283">On Cooldown..</string>
+	<!-- Hoenn - Elite 4 - Glacia -->
+	<string id="270697644"> <!-- Challenge --></string>
+	<string id="270697908"> <!-- Victory --></string>
+	<string id="270698048">On Cooldown..</string>
+	<!-- Hoenn - Elite 4 - Drake -->
+	<string id="270698302"> <!-- Challenge --></string>
+	<string id="270698645"> <!-- Victory --></string>
+	<string id="270698672">On Cooldown..</string>
+	<!-- Hoenn - Elite 4 - Wallace -->
+	<string id="270699596"> <!-- Challenge --></string>
+	<string id="270700204"> <!-- Victory --></string>
+	<!-- Hoenn - Elite 4 - Wallace/May/Brendan/Birch -->
+	<string id="270700390"> <!-- Wallace in Awe --></string>
+	<string id="270700746"> <!-- May gretting --></string>
+	<string id="270700811"> <!-- May shocked you won --></string>
+	<string id="270700882"> <!-- Brendan gretting --></string>
+	<string id="270700962"> <!-- Brendan shocked you won --></string>
+	<string id="270701030"> <!-- Birch mad proud --></string>
+	<string id="270701389"> <!-- Bich proud cont. --></string>
+	<string id="270701465"> <!-- Wallace showing respect --></string>
+	<string id="270701547"> <!-- Wallace telling the rival to get bent --></string>
+	<string id="270701689"> <!-- May Pouting --></string>
+	<string id="270701813"> <!-- Brendan Pouting --></string>
 
-	<!-- PvP short battle stats -->
-	<string id="5200">Turn #{00}</string>
-	<string id="5201">Time: {00}</string>
-
-	<!-- Mailman -->
-	<string id="16780150">Send mail?</string>
-	<string id="16780151">{01}, you have mail!</string>
-
-	<!-- Battlepoint Vendors -->
-	<string id="270923770"> <!-- Shop --></string>
-	<string id="270925586"> <!-- Goodbye --></string>
-
-	<!-- General Breeding -->
-	<string id="16779080">Breed?</string>
-	<string id="16779081">Not enough {STRING_0}...<!-- only one pokemon --></string>
-	<string id="16779082">Positive?</string>
-	<string id="16779083"> <!-- which pokemon --></string>
-	<string id="16779087">Egg?</string>
-	<string id="16779091">♂/♀?</string>
-	<string id="16779092">♂/♀?</string>
-	<string id="16779093">+${00}?</string>
-	<string id="16777221">Which {STRING_245004}?<!-- pokeball --></string>
-	<!-- Bracer Vendor -->
-	<string id="16779070"> </string>
-	<!--Breeding Egg Messages - Kanto-->
-	<string id="1832746"> <!-- received EGG --></string>
-	<string id="1832789"> <!-- take care --></string>
-	<!--Breeding Egg Messages - Hoenn-->
-	<string id="271131044"> <!-- received EGG --></string>
-	<string id="271131087"> <!-- take care --></string>
-
-	<!-- Safari -->
-	<!-- Combat Menu -->
-	<string id="5109">Ball ({00})</string>
-	<string id="5100">Fight</string>
-	<string id="5104">Bag</string>
-	<string id="5106">Run</string>
-	<string id="5108">Ball</string>
-	<string id="5118">Mud</string>
-	<string id="5110">Stone</string>
-	<string id="5112">Bait</string>
-	<string id="5114">Shift</string>
-	<string id="5116">Forfeit</string>
-	<string id="5120">Summary</string>
-	<!-- Kanto Safari Zone -->
-	<string id="1670251">SAFARI ZONE!</string>
-	<string id="1670279">$500?</string>
-	<string id="1670407"> </string>
-	<string id="1670480"> </string>
-	<string id="1670528">Good Luck!</string>
-	<string id="1670633">Goodbye!</string>
-	<string id="1670658">Not enough money!</string>
-	<string id="1670682">Leaving early?</string>
-	<string id="1670728"> </string>
-	<string id="1670778">Good luck!</string>
-	<string id="1670789">Come again!</string>
-	<!-- Hoenn Safari Zone -->
-	<string id="271208308">$500?</string>
-	<string id="271208475"> </string>
-	<string id="271208502"> </string>
-	<string id="271208530"> </string>
-	<string id="271208559"> </string>
-	<string id="271207462">Time's Up!</string>
-	<string id="271207510">Out of Balls.</string>
-	<!-- trainer blocking door -->
-	<string id="271209131">Good luck!</string>
-	<string id="271208916">Leaving early?</string>
-	<string id="271209032">Okay.<!-- yes --></string>
-	<string id="271208986">Good luck!<!-- no --></string>
-
-	<!-- PC Text -->
-	<string id="2350">PC</string>
-	<!-- Kanto Pokecenter -->
-	<string id="1725571"> </string>
-	<string id="1725665"> </string>
-	<string id="1725713"> </string>
-	<string id="1725739"> </string>
-	<!-- Kanto Vendors -->
-	<string id="1729041"> <!-- Shop --></string>
-	<string id="1724816"> <!-- Goodbye --></string>
-	<!-- Hoenn Pokecenter -->
-	<string id="271001323"> </string>
-	<string id="271001496"> </string>
-	<string id="271001563"> </string>
-	<string id="271002048"> </string>
-	<string id="271001589"> </string>
-	<!-- Hoenn Vendors -->
-	<string id="271002145"> <!-- Shop --></string>
-	<string id="271002175"> <!-- Goodbye --></string>
-
-	<!-- Mom Region Return -->
-	<string id="16780130">Miss {00}?</string>
-	<!-- Region Ferry -->
-	<string id="16780100">Travel?</string>
-	<string id="16780102">Leaving will send your {STRING_0} to the PC.</string>
-	<string id="16780103"> </string>
-	<string id="16780104"> </string>
-	<string id="16780105">Your PC does not have enough room.\nYou can't deposit all of your {STRING_0}.</string>
-
-	<!-- Mushroom Move Master -->
-	<string id="16778100">I'm the Move Maniac.</string>
-	<string id="16778102">need {00}(s)</string>
-	<string id="16778103">need {00}(s)/{01}(s)</string>
-	<string id="1715299"> </string>
-	<string id="1715523"> </string>
-	<string id="1715680"> </string>
-	<string id="1715589"> </string>
-	<string id="1715635"> </string>
-
-	<!-- HMs -->
-	<!-- Restore PP -->
-	<string id="8600">+PP {01}?</string>
-	<!-- Ocarina Text -->
-	<string id="16780155">\n</string>
-	<!-- Hoenn - Cut -->
-	<string id="271124270">Cut?</string>
-	<string id="271124337"> </string>
-	<string id="271124349">No Cut</string>
-	<!-- Hoenn - Surf -->
-	<string id="271003606">Surf?</string>
-	<string id="271003661"> </string>
-	<!-- Hoenn - Rocksmash -->
-	<string id="271124538">SMASH?</string>
-	<string id="271124607">No Rocksmash</string>
-	<!-- Hoenn - Strength -->
-	<string id="271124780">STRENGTH?</string>
-	<string id="271124876"> </string>
-	<string id="271124950">No Strength</string>
-	<string id="271125014"> </string>
-	<!-- Hoenn - Dive -->
-	<string id="271125418">No Dive</string>
-	<string id="271125480">DIVE?</string>
-	<string id="271125530"> </string>
-	<string id="271125544">No Dive</string>
-	<string id="271125614">DIVE?</string>
-	<!-- Hoenn - Waterfall -->
-	<string id="271125134">No Waterfall</string>
-	<string id="271125187">WATERFALL?</string>
-	<string id="271125244"> </string>
-	<!-- Kanto - Surf -->
-	<string id="1725806">SURF?</string>
-	<string id="1725861"> </string>
-	<!-- Kanto - Strength -->
-	<string id="1827226">STRENGTH?</string>
-	<string id="1827322"> </string>
-	<string id="1827396">No Strength</string>
-	<string id="1827460"> </string>
-	<!-- Kanto - Waterfall -->
-	<string id="1827594">No Waterfall</string>
-	<string id="1827647">WATERFALL?</string>
-	<string id="1827704"> </string>
-	<!-- Kanto - Dive -->
-	<string id="1827883">No Dive</string>
-	<string id="1827945">DIVE?</string>
-	<string id="1827995"> </string>
-	<string id="1828009">No Dive</string>
-	<string id="1828079">DIVE?</string>
-	<!-- Kanto - Cut -->
-	<string id="1826708">Cut?</string>
-	<string id="1826775"> </string>
-	<string id="1826787"> </string>
-	<!-- Kanto - Rocksmash -->
-	<string id="1826973">SMASH?</string>
-	<string id="1827042">No Rocksmash</string>
-	<!-- Berries -->
-	<string id="4">Berries</string>
-	<string id="300014">Berries</string>
-	<string id="310018">Berries</string>
-
-	<string id="16780309">Planted.</string>
-	<string id="16780310">planted..</string>
-	<string id="16780311">sprouted.</string>
-	<string id="16780312">seeds</string>
-	<string id="16780313">sapling</string>
-
-	<string id="16780315">Dry.</string>
-	<string id="16780316">Moist.</string>
-	<string id="16780317">Wet.</string>
-	<string id="16780318">Flooded.</string>
-
-	<string id="16780320">Almost dry.</string>
-	<string id="16780321">Almost flooded.</string>
-	<string id="16780326">Plant?</string>
-	<string id="16780327">Water{00}?</string>
-	<string id="16780328">Watered.</string>
-
-	<string id="16780329">{01} {00}!\n\nPick? {00}?</string>
-	<string id="16780330">You did not pick the {00}.</string>
-	<string id="16780331">{01} {02}.</string>
-
-	<string id="16780335">Dry.</string>
-	<string id="16780336">Almost dry.</string>
-	<string id="16780337">Moist.</string>
-	<string id="16780338">Wet.</string>
-	<string id="16780339">Almost flooded.</string>
-	<string id="16780340">Flooded.</string>
-
-	<string id="16780350">excellently</string>
-	<string id="16780351">beautifully</string>
-	<string id="16780352">nicely</string>
-	<string id="16780353">poorly</string>
 	<!-- "better" halloween strings ; thanks nurver -->
 	<string id="101608">Restores 25% HP when eaten.\nWhen fighting Pumpking, clears\nstat modifications from allied field.</string>
 	<string id="101609">Restores 25% HP when eaten.\nWhen fighting Pumpking, grants the ability {STRING_210064}\nand causes attacks to drain their target. Lasts 5 turns.</string>

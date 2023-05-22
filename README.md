@@ -4,7 +4,7 @@ PokéMMO custom strings to skip or shorten dialogue. Does not remove PokéMMO st
 
 ## Credits
 
-[Slepea](https://github.com/LostPast/Pokemmo_strings_en_slepea), [nurver, realmadrid1809 and AnonymousPoke](https://forums.pokemmo.com/index.php?/topic/150771-docs-localization-files-understanding-syntax-and-load-order/).
+[Slepea](https://github.com/LostPast/Pokemmo_strings_en_slepea), [nurver, realmadrid1809 and AnonymousPoke](https://forums.pokemmo.com/index.php?/topic/150771-docs-localization-files-understanding-syntax-and-load-order/). Shoutout to Fretzi for research and testing.
 
 ## Support
 
