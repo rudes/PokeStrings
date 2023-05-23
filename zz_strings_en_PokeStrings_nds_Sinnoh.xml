@@ -196,9 +196,9 @@
 	<string block_id="0" entry_id="426" table_id="617">On Cooldown..</string>
 
 	<!-- Sinnoh - Route 222 - Rich Boy Trey - $4240 -->
-	<string block_id="0" entry_id="905" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="903" table_id="617"> <!-- Victory Combat Text --></string>
-	<string block_id="0" entry_id="904" table_id="617">On Cooldown..</string>
+	<string block_id="0" entry_id="906" table_id="617"> <!-- Challenge --></string>
+	<string block_id="0" entry_id="904" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="905" table_id="617">On Cooldown..</string>
 
 	<!-- Sinnoh - Route 226 - Ace Trainer Graham - $3,712 -->
 	<string block_id="0" entry_id="1638" table_id="617"> <!-- Challenge --></string>
@@ -215,6 +215,8 @@
 	<string block_id="0" entry_id="1617" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Route 225 - Ranger Dwayne - $3,480 -->
 	<string block_id="0" entry_id="1690" table_id="617"> <!-- Challenge --></string>
+	<string block_id="0" entry_id="1688" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="1689" table_id="617">On Cooldown..</string>
 
 	<!-- Sinnoh - Route 210 - Veteran Brian - $4,160 -->
 	<string block_id="0" entry_id="354" table_id="617"> <!-- Challenge --></string>
