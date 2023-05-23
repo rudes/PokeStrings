@@ -19,6 +19,16 @@
 	<string block_id="0" entry_id="4" table_id="213"> </string>
 	<string block_id="0" entry_id="120" table_id="213"> </string>
 	<string block_id="0" entry_id="121" table_id="213"> </string>
+	<!-- Sinnoh - Nurse Mom - Before healing -->
+	<string block_id="0" entry_id="11" table_id="557">Rest?<!-- Morning Rest --></string>
+	<string block_id="0" entry_id="12" table_id="557">Rest?<!-- Afternoon Rest --></string>
+	<string block_id="0" entry_id="13" table_id="557">Rest?<!-- Evening Rest --></string>
+	<string block_id="0" entry_id="14" table_id="557">Rest?<!-- Night Rest --></string>
+	<!-- Sinnoh - Nurse Mom - After healing -->
+	<string block_id="0" entry_id="37" table_id="557">Good luck!<!-- Pokemon are healthy --></string>
+	<string block_id="0" entry_id="38" table_id="557">Good luck!<!-- Be good to your pokemon --></string>
+	<string block_id="0" entry_id="39" table_id="557">Good luck!<!-- I miss your dad --></string>
+	<string block_id="0" entry_id="40" table_id="557">Good luck!<!-- I miss you --></string>
 
 	<!-- Fossil hatching -->
 	<string block_id="0" entry_id="1" table_id="79"> <!-- greeting --></string>
@@ -57,4 +67,48 @@
 	<string block_id="0" entry_id="23" table_id="381"> <!-- used waterfall --></string>
 	<string block_id="0" entry_id="24" table_id="381">No Waterfall.</string>
 	<string block_id="0" entry_id="26" table_id="381"> <!-- used flash --></string>
+
+	<!-- ELITE FOUR -->
+	<!-- Sinnoh - Elite 4 - Warden -->
+	<string block_id="0" entry_id="3" table_id="184">Good luck!<!-- you have the badges --></string>
+	<string block_id="0" entry_id="4" table_id="184">Good luck!<!-- you better beat all 4 --></string>
+	<!-- Sinnoh - Elite 4 - Aaron -->
+	<string block_id="0" entry_id="0" table_id="185"> <!-- Challenge --></string>
+	<string block_id="0" entry_id="1968" table_id="617"> <!-- Combat Vicotry --></string>
+	<string block_id="0" entry_id="1" table_id="185"> <!-- Victory Dialogue --></string>
+	<string block_id="0" entry_id="2" table_id="185">On Cooldown..</string>
+	<!-- Sinnoh - Elite 4 - Bertha -->
+	<string block_id="0" entry_id="0" table_id="186"> <!-- Challenge --></string>
+	<string block_id="0" entry_id="1970" table_id="617"> <!-- Combat Vicotry --></string>
+	<string block_id="0" entry_id="1" table_id="186"> <!-- Victory Dialogue --></string>
+	<string block_id="0" entry_id="2" table_id="186">On Cooldown..</string>
+	<!-- Sinnoh - Elite 4 - Flint -->
+	<string block_id="0" entry_id="4" table_id="187"> <!-- Challenge --></string>
+	<string block_id="0" entry_id="1973" table_id="617"> <!-- Combat Vicotry --></string>
+	<string block_id="0" entry_id="5" table_id="187"> <!-- Victory Dialogue --></string>
+	<string block_id="0" entry_id="6" table_id="187">On Cooldown..</string>
+	<!-- Sinnoh - Elite 4 - Lucian -->
+	<string block_id="0" entry_id="0" table_id="188"> <!-- Challenge --></string>
+	<string block_id="0" entry_id="1975" table_id="617"> <!-- Combat Vicotry --></string>
+	<string block_id="0" entry_id="1" table_id="188"> <!-- Victory Dialogue --></string>
+	<string block_id="0" entry_id="2" table_id="188">On Cooldown..</string>
+	<!-- Sinnoh - Elite 4 - Cynthia/Rowan -->
+	<string block_id="0" entry_id="3" table_id="189"> <!-- Challenge --></string>
+	<string block_id="0" entry_id="1978" table_id="617"> <!-- Combat Vicotry --></string>
+	<string block_id="0" entry_id="1" table_id="189"> <!-- Victory Dialogue --></string>
+	<string block_id="0" entry_id="2" table_id="189"> <!-- go to elevator --></string>
+	<string block_id="0" entry_id="0" table_id="190"> <!-- this is the hall of fame --></string>
+	<string block_id="0" entry_id="1" table_id="190"> <!-- rowan shows respect --></string>
+	<string block_id="0" entry_id="2" table_id="190"> <!-- hi rowan --></string>
+	<string block_id="0" entry_id="3" table_id="190"> <!-- rowan really loves this kid --></string>
+	<string block_id="0" entry_id="4" table_id="190"> <!-- awww rowan so cute --></string>
+	<string block_id="0" entry_id="5" table_id="190">Story?<!-- step this way --></string>
+	<string block_id="0" entry_id="6" table_id="190">Post Story?<!-- step this way --></string>
+	<string block_id="0" entry_id="7" table_id="190">Professor Rowan, please join us.\n\n</string>
+	<string block_id="0" entry_id="8" table_id="190">?<!-- Empty String?? --></string>
+	<string block_id="0" entry_id="1" table_id="191"> <!-- rowan wishes he was a pokemon master --></string>
+	<string block_id="0" entry_id="3" table_id="191"> <!-- cynthia loves champions --></string>
+	<string block_id="0" entry_id="4" table_id="191">Story?<!-- hall of famer --></string>
+	<string block_id="0" entry_id="5" table_id="191">Post Story?<!-- hall of famer --></string>
+	<string block_id="0" entry_id="6" table_id="191">GG.<!-- hall of famer --></string>
 </ds_strings_archive>
