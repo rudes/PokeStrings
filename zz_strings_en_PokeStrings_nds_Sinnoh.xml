@@ -11,6 +11,20 @@
 	<string block_id="0" entry_id="5" table_id="547"> <!-- received egg --></string>
 	<string block_id="0" entry_id="6" table_id="547"> <!-- take care--></string>
 
+	<!-- Sinnoh Safari Zone -->
+	<string block_id="0" entry_id="0" table_id="136">$500?</string>
+	<string block_id="0" entry_id="1" table_id="136"> </string>
+	<string block_id="0" entry_id="2" table_id="136"> </string>
+	<string block_id="0" entry_id="3" table_id="136"> </string>
+	<string block_id="0" entry_id="4" table_id="136"> </string>
+	<string block_id="0" entry_id="9" table_id="136">Leaving Early?</string>
+	<string block_id="0" entry_id="10" table_id="136">Good Bye!</string>
+	<string block_id="0" entry_id="0" table_id="538">Time's up!</string>
+	<string block_id="0" entry_id="1" table_id="538">Out of Balls.</string>
+	<string block_id="0" entry_id="2" table_id="538">PC Full!</string>
+
+	<!-- Vendors -->
+	<string block_id="0" entry_id="37" table_id="213"> <!-- Shop --></string>
 	<!--Pokémon Center-->
 	<string block_id="0" entry_id="0" table_id="213"> </string>
 	<string block_id="0" entry_id="1" table_id="213"> </string>

@@ -9,18 +9,18 @@ PokéMMO custom strings to skip or shorten dialogue. Does not remove PokéMMO st
 ## Support
 
 - [x] Breeding
-- [ ] Safari Zones
+- [x] All Safari Zones
 - [x] Berry Farming
 - [x] Pokémon Centers (Mom included)
-- [ ] Various Vendors
+- [x] Various Vendors
 - [x] Region Change Ferry
 - [x] Mushroom Move Master
 - [x] Pickup/Found and Hordes
 - [x] Overworld HMs and Ocarinas
-- [ ] Post-game
+- [x] Post-game
 	- [x] Gym Leaders
 	- [x] Elite Four
-	- [ ] Trainers
+	- [x] [Trainers](https://forums.pokemmo.com/index.php?/topic/148798-1-hour-trainer-rerun-guide/)
 
 ## Install
 

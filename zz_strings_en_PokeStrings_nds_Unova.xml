@@ -37,6 +37,11 @@
 	<!-- Vendors -->
 	<string block_id="0" entry_id="0" table_id="424"> <!-- Shop --></string>
 	<string block_id="0" entry_id="3" table_id="424"> <!-- Goodbye --></string>
+	<!-- Shopping Mall -->
+	<string block_id="0" entry_id="0" table_id="424"> <!-- Shop Pokeballs --></string>
+	<string block_id="0" entry_id="3" table_id="424"> <!-- Goodbye Pokeballs --></string>
+	<string block_id="0" entry_id="1" table_id="424"> <!-- Shop TMs --></string>
+	<string block_id="0" entry_id="2" table_id="424"> <!-- Goodbye TMs --></string>
 
 	<!-- Breeding Egg Messages -->
 	<string block_id="0" entry_id="7" table_id="426"> <!-- received egg --></string>
