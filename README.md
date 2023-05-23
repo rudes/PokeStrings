@@ -24,5 +24,6 @@ PokéMMO custom strings to skip or shorten dialogue. Does not remove PokéMMO st
 
 ## Install
 
-1. Copy **ONLY** the XML files to your `...\PokeMMO\data\strings` folder
-2. Set language in game to English
+1. Set language in-game to English
+2. Remove any custom strings you have for English from `...\PokeMMO\data\strings`
+3. Copy **ONLY** the XML files to your `...\PokeMMO\data\strings` folder
