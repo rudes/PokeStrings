@@ -64,6 +64,50 @@
 	<string block_id="0" entry_id="9" table_id="280"> <!-- strength enabled --></string>
 	<string block_id="0" entry_id="11" table_id="280"> <!-- strength enabled --></string>
 
+	<!-- Gym Leaders -->
+	<!-- Unova - Striaton City - Chili (fire) -->
+	<string block_id="0" entry_id="11" table_id="12"> <!-- Challenge --></string>
+		<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+	<string block_id="0" entry_id="29" table_id="12">On Cooldown...</string>
+	<!-- Unova - Striaton City - Cilan (grass) -->
+	<string block_id="0" entry_id="12" table_id="12"> <!-- Challenge --></string>
+		<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+	<string block_id="0" entry_id="28" table_id="12">On Cooldown...</string>
+	<!-- Unova - Striaton City - Cress (water) -->
+	<string block_id="0" entry_id="13" table_id="12"> <!-- Challenge --></string>
+		<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+	<string block_id="0" entry_id="30" table_id="12">On Cooldown...</string>
+	<!-- Unova - Nacrene City - Lenora -->
+	<string block_id="0" entry_id="0" table_id="24"> <!-- Challenge --></string>
+		<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+	<string block_id="0" entry_id="9" table_id="24">On Cooldown...</string>
+	<!-- Unova - Castelia City - Burgh -->
+	<string block_id="0" entry_id="9" table_id="34"> <!-- Annoying switch I always hit --></string>
+	<string block_id="0" entry_id="0" table_id="34"> <!-- Challenge --></string>
+		<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+	<string block_id="0" entry_id="6" table_id="34">On Cooldown...</string>
+	<!-- Unova - Nimbasa City - Elesa -->
+	<string block_id="0" entry_id="0" table_id="68"> <!-- Challenge --></string>
+		<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+	<string block_id="0" entry_id="7" table_id="68">On Cooldown...</string>
+	<!-- Unova - Driftveil City - Clay -->
+	<string block_id="0" entry_id="0" table_id="102"> <!-- Challenge --></string>
+		<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+	<string block_id="0" entry_id="6" table_id="102">On Cooldown...</string>
+	<!-- Unova - Mistralton City - Skyla -->
+	<string block_id="0" entry_id="0" table_id="113"> <!-- Challenge --></string>
+		<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+	<string block_id="0" entry_id="6" table_id="113">On Cooldown...</string>
+	<!-- Unova - Icirrus City - Brycen -->
+	<string block_id="0" entry_id="0" table_id="119"> <!-- Challenge --></string>
+		<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+	<string block_id="0" entry_id="7" table_id="119">On Cooldown...</string>
+	<!-- Unova - Opelucid City - Iris -->
+	<string block_id="0" entry_id="0" table_id="126"> <!-- Challenge --></string>
+		<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+	<string block_id="0" entry_id="6" table_id="126">On Cooldown... Story?</string>
+	<string block_id="0" entry_id="7" table_id="126">On Cooldown... Post Story?</string>
+
 	<!-- ELITE FOUR -->
 	<!-- Unova - Elite Four - Warden -->
 	<string block_id="0" entry_id="4" table_id="141">Good luck!</string>
@@ -76,7 +120,7 @@
 	<string block_id="0" entry_id="6" table_id="145"> <!-- Challenge - Toughest Opponent --></string>
 	<string block_id="0" entry_id="7" table_id="145"> <!-- Challenge - World Doesn't Revolve Around You --></string>
 	<string block_id="0" entry_id="8" table_id="145"> <!-- Challenge - I do drugs --></string>
-	<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+		<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
 	<string block_id="0" entry_id="1" table_id="145">Story?<!-- Victory Dialogue --></string>
 	<string block_id="0" entry_id="9" table_id="145">Post Story? <!-- Victory Dialogue --></string>
 	<string block_id="0" entry_id="2" table_id="145">Story? GL On Cooldown..<!-- More E4 Left --></string>
@@ -85,25 +129,25 @@
 	<string block_id="0" entry_id="11" table_id="145">Post Story? On Cooldown..<!-- E4 Finished --></string>
 	<!-- Unova - Elite Four - Marshal -->
 	<string block_id="0" entry_id="4" table_id="147"> <!-- Challenge --></string>
-	<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+		<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
 	<string block_id="0" entry_id="5" table_id="147"> <!-- Victory Dialogue E4 Left --></string>
 	<string block_id="0" entry_id="7" table_id="147"> <!-- Victory Dialogue E4 Finished --></string>
 	<string block_id="0" entry_id="6" table_id="147">On Cooldown..</string>
 	<!-- Unova - Elite Four - Grimsley -->
 	<string block_id="0" entry_id="4" table_id="146"> <!-- Challenge --></string>
-	<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+		<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
 	<string block_id="0" entry_id="5" table_id="146"> <!-- Victory Dialogue E4 Left --></string>
 	<string block_id="0" entry_id="7" table_id="146"> <!-- Victory Dialogue E4 Finished --></string>
 	<string block_id="0" entry_id="6" table_id="146">On Cooldown..</string>
 	<!-- Unova - Elite Four - Caitlin -->
 	<string block_id="0" entry_id="4" table_id="148"> <!-- Challenge --></string>
-	<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+		<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
 	<string block_id="0" entry_id="5" table_id="148"> <!-- Victory Dialogue E4 Left --></string>
 	<string block_id="0" entry_id="7" table_id="148"> <!-- Victory Dialogue E4 Finished --></string>
 	<string block_id="0" entry_id="6" table_id="148">On Cooldown..</string>
 	<!-- Unova - Elite Four - Alder -->
 	<string block_id="0" entry_id="23" table_id="149"> <!-- Challenge --></string>
-	<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+		<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
 	<string block_id="0" entry_id="24" table_id="149"> <!-- Come with me --></string>
 	<string block_id="0" entry_id="1" table_id="150"> <!-- I love it here --></string>
 	<string block_id="0" entry_id="2" table_id="150">Story? <!-- Well Now --></string>

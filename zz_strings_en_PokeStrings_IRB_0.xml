@@ -6,4 +6,38 @@
 	<!-- "{00} used\n{01}!" ex: fly -->
 	<string block_id="0" entry_id="52" table_id="8">\n</string>
 	<string block_id="0" entry_id="53" table_id="8">\n</string>
+
+	<!-- ELITE FOUR -->
+	<!-- Unova - Elite Four - Shauntal - Combat Text -->
+	<string block_id="0" entry_id="1577" table_id="189"> <!-- Combat Victory --></string>
+	<!-- Unova - Elite Four - Marshal - Combat Text -->
+	<string block_id="0" entry_id="1585" table_id="189"> <!-- Combat Victory --></string>
+	<!-- Unova - Elite Four - Grimsley - Combat Text -->
+	<string block_id="0" entry_id="1581" table_id="189"> <!-- Combat Victory --></string>
+	<!-- Unova - Elite Four - Caitlin - Combat Text -->
+	<string block_id="0" entry_id="1589" table_id="189"> <!-- Combat Victory --></string>
+	<!-- Unova - Elite Four - Alder - Combat Text -->
+	<string block_id="0" entry_id="1761" table_id="189"> <!-- Combat Victory --></string>
+
+	<!-- GYM LEADERS -->
+	<!-- Unova - Striaton City - Chili (fire) - Combat Text -->
+	<string block_id="0" entry_id="128" table_id="189"> <!-- Combat Victory --></string>
+	<!-- Unova - Striaton City - Cilan (grass) - Combat Text -->
+	<string block_id="0" entry_id="134" table_id="189"> <!-- Combat Victory --></string>
+	<!-- Unova - Striaton City - Cress (water) - Combat Text -->
+	<string block_id="0" entry_id="131" table_id="189"> <!-- Combat Victory --></string>
+	<!-- Unova - Nacrene City - Lenora - Combat Text -->
+	<string block_id="0" entry_id="143" table_id="189"> <!-- Combat Victory --></string>
+	<!-- Unova - Castelia City - Burgh - Combat Text -->
+	<string block_id="0" entry_id="151" table_id="189"> <!-- Combat Victory --></string>
+	<!-- Unova - Nimbasa City - Elesa - Combat Text -->
+	<string block_id="0" entry_id="154" table_id="189"> <!-- Combat Victory --></string>
+	<!-- Unova - Driftveil City - Clay - Combat Text -->
+	<string block_id="0" entry_id="165" table_id="189"> <!-- Combat Victory --></string>
+	<!-- Unova - Mistralton City - Skyla - Combat Text -->
+	<string block_id="0" entry_id="168" table_id="189"> <!-- Combat Victory --></string>
+	<!-- Unova - Icirrus City - Brycen - Combat Text -->
+	<string block_id="0" entry_id="420" table_id="189"> <!-- Combat Victory --></string>
+	<!-- Unova - Opelucid City - Iris - Combat Text -->
+	<string block_id="0" entry_id="423" table_id="189"> <!-- Combat Victory --></string>
 </ds_strings_archive>

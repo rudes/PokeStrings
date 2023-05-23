@@ -19,21 +19,9 @@
 	<string id="5200">Turn #{00}</string>
 	<string id="5201">Time: {00}</string>
 
-	<!-- Mailman -->
-	<string id="16780150">Send mail?</string>
-	<string id="16780151">{01}, you have mail!</string>
-
-	<!-- Hoenn - Battlepoint Vendors -->
-	<string id="270923770"> <!-- Shop --></string>
-	<string id="270925586"> <!-- Goodbye --></string>
-
-	<!-- Kanto - Nurse Mom -->
-	<string id="1627089">Rest?</string>
-	<string id="1627128"> <!-- Goodbye --></string>
-
-	<!-- Hoenn - Nurse Mom -->
-	<string id="270499080">Rest?</string>
-	<string id="270499164"> <!-- Goodbye --></string>
+	<!-- Repel/Lure -->
+	<string id="6011">{00} ended.</string>
+	<string id="6012">Use another {00}?</string>
 
 	<!-- General Breeding -->
 	<string id="16779080">Breed?</string>
@@ -56,23 +44,38 @@
 
 	<!-- PC Text -->
 	<string id="2350">PC</string>
+
 	<!-- Kanto Pokecenter -->
 	<string id="1725571"> </string>
 	<string id="1725665"> </string>
 	<string id="1725713"> </string>
 	<string id="1725739"> </string>
+	<!-- Kanto - Nurse Mom -->
+	<string id="1627089">Rest?</string>
+	<string id="1627128"> <!-- Goodbye --></string>
 	<!-- Kanto Vendors -->
 	<string id="1729041"> <!-- Shop --></string>
 	<string id="1724816"> <!-- Goodbye --></string>
+
 	<!-- Hoenn Pokecenter -->
 	<string id="271001323"> </string>
 	<string id="271001496"> </string>
 	<string id="271001563"> </string>
 	<string id="271002048"> </string>
 	<string id="271001589"> </string>
+	<!-- Hoenn - Nurse Mom -->
+	<string id="270499080">Rest?</string>
+	<string id="270499164"> <!-- Goodbye --></string>
 	<!-- Hoenn Vendors -->
 	<string id="271002145"> <!-- Shop --></string>
 	<string id="271002175"> <!-- Goodbye --></string>
+	<!-- Hoenn - Battlepoint Vendors -->
+	<string id="270923770"> <!-- Shop --></string>
+	<string id="270925586"> <!-- Goodbye --></string>
+
+	<!-- Mailman -->
+	<string id="16780150">Send mail?</string>
+	<string id="16780151">{01}, you have mail!</string>
 
 	<!-- Mom Region Return -->
 	<string id="16780130">Miss {00}?</string>
