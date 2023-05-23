@@ -27,6 +27,13 @@
 	<string block_id="0" entry_id="7" table_id="346"> </string>
 	<string block_id="0" entry_id="8" table_id="346"> </string>
 	<string block_id="0" entry_id="9" table_id="346"> </string>
+	<!-- Unova - Nurse Mom -->
+	<string block_id="0" entry_id="15" table_id="429">Rest? <!-- you beat your pokemon up a lot --></string>
+	<string block_id="0" entry_id="14" table_id="429"> <!-- I miss being a pokemon master --></string>
+	<string block_id="0" entry_id="17" table_id="429"> <!-- Be good to your pokemon --></string>
+	<string block_id="0" entry_id="18" table_id="429"> <!-- I miss your dad --></string>
+	<string block_id="0" entry_id="19" table_id="429"> <!-- The professor is paying me for your work --></string>
+	<string block_id="0" entry_id="20" table_id="429"> <!-- You kids are my soapopera --></string>
 	<!-- Vendors -->
 	<string block_id="0" entry_id="0" table_id="424"> <!-- Shop --></string>
 	<string block_id="0" entry_id="3" table_id="424"> <!-- Goodbye --></string>
@@ -56,4 +63,50 @@
 	<string block_id="0" entry_id="29" table_id="280"> <!-- used dig --></string>
 	<string block_id="0" entry_id="9" table_id="280"> <!-- strength enabled --></string>
 	<string block_id="0" entry_id="11" table_id="280"> <!-- strength enabled --></string>
+
+	<!-- ELITE FOUR -->
+	<!-- Unova - Elite Four - Warden -->
+	<string block_id="0" entry_id="4" table_id="141">Good luck!</string>
+	<!-- Unova - Elite Four - Pillar/Door -->
+	<string block_id="0" entry_id="0" table_id="142">SW: Shauntal\nSE: Marshal\nNW: Grimsley\n NE: Caitlin</string>
+	<string block_id="0" entry_id="0" table_id="143">Win or Lose to leave.</string>
+	<!-- Unova - Elite Four - Shauntal -->
+	<string block_id="0" entry_id="4" table_id="145"> <!-- Challenge - Aqua Ring --></string>
+	<string block_id="0" entry_id="5" table_id="145"> <!-- Challenge - Thunderbolt --></string>
+	<string block_id="0" entry_id="6" table_id="145"> <!-- Challenge - Toughest Opponent --></string>
+	<string block_id="0" entry_id="7" table_id="145"> <!-- Challenge - World Doesn't Revolve Around You --></string>
+	<string block_id="0" entry_id="8" table_id="145"> <!-- Challenge - I do drugs --></string>
+	<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+	<string block_id="0" entry_id="1" table_id="145">Story?<!-- Victory Dialogue --></string>
+	<string block_id="0" entry_id="9" table_id="145">Post Story? <!-- Victory Dialogue --></string>
+	<string block_id="0" entry_id="2" table_id="145">Story? GL On Cooldown..<!-- More E4 Left --></string>
+	<string block_id="0" entry_id="10" table_id="145">Post Story? GL On Cooldown..<!-- More E4 Left --></string>
+	<string block_id="0" entry_id="3" table_id="145">Story? On Cooldown..<!-- E4 Finished --></string>
+	<string block_id="0" entry_id="11" table_id="145">Post Story? On Cooldown..<!-- E4 Finished --></string>
+	<!-- Unova - Elite Four - Marshal -->
+	<string block_id="0" entry_id="4" table_id="147"> <!-- Challenge --></string>
+	<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+	<string block_id="0" entry_id="5" table_id="147"> <!-- Victory Dialogue E4 Left --></string>
+	<string block_id="0" entry_id="7" table_id="147"> <!-- Victory Dialogue E4 Finished --></string>
+	<string block_id="0" entry_id="6" table_id="147">On Cooldown..</string>
+	<!-- Unova - Elite Four - Grimsley -->
+	<string block_id="0" entry_id="4" table_id="146"> <!-- Challenge --></string>
+	<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+	<string block_id="0" entry_id="5" table_id="146"> <!-- Victory Dialogue E4 Left --></string>
+	<string block_id="0" entry_id="7" table_id="146"> <!-- Victory Dialogue E4 Finished --></string>
+	<string block_id="0" entry_id="6" table_id="146">On Cooldown..</string>
+	<!-- Unova - Elite Four - Caitlin -->
+	<string block_id="0" entry_id="4" table_id="148"> <!-- Challenge --></string>
+	<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+	<string block_id="0" entry_id="5" table_id="148"> <!-- Victory Dialogue E4 Left --></string>
+	<string block_id="0" entry_id="7" table_id="148"> <!-- Victory Dialogue E4 Finished --></string>
+	<string block_id="0" entry_id="6" table_id="148">On Cooldown..</string>
+	<!-- Unova - Elite Four - Alder -->
+	<string block_id="0" entry_id="23" table_id="149"> <!-- Challenge --></string>
+	<!-- combat text located in zz_strings_en_PokeStrings_IRB_0.xml -->
+	<string block_id="0" entry_id="24" table_id="149"> <!-- Come with me --></string>
+	<string block_id="0" entry_id="1" table_id="150"> <!-- I love it here --></string>
+	<string block_id="0" entry_id="2" table_id="150">Story? <!-- Well Now --></string>
+	<string block_id="0" entry_id="3" table_id="150">Post Story? <!-- Well Now --></string>
+	<string block_id="0" entry_id="4" table_id="150"> <!-- You're a god gamer kid --></string>
 </ds_strings_archive>

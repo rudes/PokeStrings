@@ -11,7 +11,7 @@ PokéMMO custom strings to skip or shorten dialogue. Does not remove PokéMMO st
 - [ ] Breeding
 - [ ] Safari Zones
 - [x] Berry Farming
-- [x] Pokémon Centers
+- [x] Pokémon Centers (Mom included)
 - [ ] Various Vendors
 - [x] Region Change Ferry
 - [x] Mushroom Move Master
