@@ -3,6 +3,9 @@
 	<!--
 		Strings used in Unova found in the dump_IRB_0_en.xml
 	-->
+	<!-- Caught pokemon sent to PC -->
+	<string block_id="0" entry_id="65" table_id="15">Caught a {00}!</string>
+	<string block_id="0" entry_id="176" table_id="234">{00} sent to PC: {01}!</string>
 	<!-- "{00} used\n{01}!" ex: fly -->
 	<string block_id="0" entry_id="52" table_id="8">\n</string>
 	<string block_id="0" entry_id="53" table_id="8">\n</string>
