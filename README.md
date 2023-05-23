@@ -8,7 +8,7 @@ PokéMMO custom strings to skip or shorten dialogue. Does not remove PokéMMO st
 
 ## Support
 
-- [ ] Breeding
+- [x] Breeding
 - [ ] Safari Zones
 - [x] Berry Farming
 - [x] Pokémon Centers (Mom included)
@@ -18,8 +18,8 @@ PokéMMO custom strings to skip or shorten dialogue. Does not remove PokéMMO st
 - [x] Pickup/Found and Hordes
 - [x] Overworld HMs and Ocarinas
 - [ ] Post-game
-	- [ ] Gym Leaders
-	- [ ] Elite Four
+	- [x] Gym Leaders
+	- [x] Elite Four
 	- [ ] Trainers
 
 ## Install
