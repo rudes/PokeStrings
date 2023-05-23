@@ -64,6 +64,17 @@
 	<string block_id="0" entry_id="9" table_id="280"> <!-- strength enabled --></string>
 	<string block_id="0" entry_id="11" table_id="280"> <!-- strength enabled --></string>
 
+	<!-- Cynthia -->
+	<string block_id="0" entry_id="9" table_id="456">Battle?<!-- Challenge --></string>
+	<string block_id="0" entry_id="10" table_id="456"> <!-- Yes --></string>
+	<string block_id="0" entry_id="11" table_id="456">Goodbye.<!-- No --></string>
+	<string block_id="0" entry_id="13" table_id="456">On Cooldown..</string>
+	<!-- Morimotto -->
+	<string block_id="0" entry_id="9" table_id="53">Battle?<!-- Challenge --></string>
+	<string block_id="0" entry_id="10" table_id="53"> <!-- Yes --></string>
+	<string block_id="0" entry_id="12" table_id="53">Goodbye.<!-- No --></string>
+	<string block_id="0" entry_id="11" table_id="53">On Cooldown..</string>
+
 	<!-- Gym Leaders -->
 	<!-- Unova - Striaton City - Chili (fire) -->
 	<string block_id="0" entry_id="11" table_id="12"> <!-- Challenge --></string>

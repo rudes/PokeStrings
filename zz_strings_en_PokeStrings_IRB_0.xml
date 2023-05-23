@@ -7,6 +7,11 @@
 	<string block_id="0" entry_id="52" table_id="8">\n</string>
 	<string block_id="0" entry_id="53" table_id="8">\n</string>
 
+	<!-- Cynthia -->
+	<string block_id="0" entry_id="1599" table_id="189">GG.<!-- Victory Dialogue --></string>
+	<!-- Morimotto -->
+	<string block_id="0" entry_id="1342" table_id="189">GG.<!-- Victory Dialogue --></string>
+
 	<!-- ELITE FOUR -->
 	<!-- Unova - Elite Four - Shauntal - Combat Text -->
 	<string block_id="0" entry_id="1577" table_id="189"> <!-- Combat Victory --></string>
@@ -40,4 +45,38 @@
 	<string block_id="0" entry_id="420" table_id="189"> <!-- Combat Victory --></string>
 	<!-- Unova - Opelucid City - Iris - Combat Text -->
 	<string block_id="0" entry_id="423" table_id="189"> <!-- Combat Victory --></string>
+
+	<!-- Unova "trainer re-run" Trainers -->
+	<!-- Unova - Shopping Mall - Lady Isabel - $4080 -->
+	<string block_id="0" entry_id="467" table_id="189"> <!-- Challenge --></string>
+	<string block_id="0" entry_id="468" table_id="189"> <!-- Combat Victory Text --></string>
+	<string block_id="0" entry_id="469" table_id="189">On Cooldown..</string>
+	<!-- Unova - Shopping Mall - Rich Boy - $4080 -->
+	<string block_id="0" entry_id="464" table_id="189"> <!-- Challenge --></string>
+	<string block_id="0" entry_id="465" table_id="189"> <!-- Combat Victory Text --></string>
+	<string block_id="0" entry_id="466" table_id="189">On Cooldown..</string>
+	<!-- Unova - Route 10 - Ace Trainer Johan - $2,968 -->
+	<string block_id="0" entry_id="321" table_id="189"> <!-- Challenge --></string>
+	<string block_id="0" entry_id="322" table_id="189"> <!-- Combat Victory Text --></string>
+	<string block_id="0" entry_id="323" table_id="189">On Cooldown..</string>
+	<!-- Unova - Route 10 - Veteran Karla - $3,300 -->
+	<string block_id="0" entry_id="540" table_id="189"> <!-- Challenge --></string>
+	<string block_id="0" entry_id="541" table_id="189"> <!-- Combat Victory Text --></string>
+	<string block_id="0" entry_id="542" table_id="189">On Cooldown..</string>
+	<!-- Unova - Route 10 - Ace Trainer Cheyenne - $2,968 -->
+	<string block_id="0" entry_id="333" table_id="189"> <!-- Challenge --></string>
+	<string block_id="0" entry_id="334" table_id="189"> <!-- Combat Victory Text --></string>
+	<string block_id="0" entry_id="335" table_id="189">On Cooldown..</string>
+	<!-- Unova - Route 10 - Veteran Chester - $3,300 -->
+	<string block_id="0" entry_id="537" table_id="189"> <!-- Challenge --></string>
+	<string block_id="0" entry_id="538" table_id="189"> <!-- Combat Victory Text --></string>
+	<string block_id="0" entry_id="539" table_id="189">On Cooldown..</string>
+	<!-- Unova - Route 13 - Socialite Marian - $5,400 -->
+	<string block_id="0" entry_id="1483" table_id="189"> <!-- Challenge --></string>
+	<string block_id="0" entry_id="1484" table_id="189"> <!-- Combat Victory Text --></string>
+	<string block_id="0" entry_id="1485" table_id="189">On Cooldown..</string>
+	<!-- Unova - Route 13 - Gentleman Yan - $5,400 -->
+	<string block_id="0" entry_id="1477" table_id="189"> <!-- Challenge --></string>
+	<string block_id="0" entry_id="1478" table_id="189"> <!-- Combat Victory Text --></string>
+	<string block_id="0" entry_id="1479" table_id="189">On Cooldown..</string>
 </ds_strings_archive>
