@@ -71,10 +71,13 @@
 
 	<!-- Cynthia -->
 	<string block_id="0" entry_id="9" table_id="456">Battle?<!-- Challenge --></string>
+	<string block_id="0" entry_id="15" table_id="456"> <!-- Challenge v2 --></string>
 	<string block_id="0" entry_id="10" table_id="456"> <!-- Yes --></string>
 	<string block_id="0" entry_id="11" table_id="456">Goodbye.<!-- No --></string>
 	<string block_id="0" entry_id="13" table_id="456">On Cooldown..</string>
+	<string block_id="0" entry_id="18" table_id="456"> <!-- Victory Dialogue v2 --></string>
 	<!-- Morimotto -->
+	<string block_id="0" entry_id="8" table_id="261">Floor?<!-- Elevator --></string>
 	<string block_id="0" entry_id="9" table_id="53">Battle?<!-- Challenge --></string>
 	<string block_id="0" entry_id="10" table_id="53"> <!-- Yes --></string>
 	<string block_id="0" entry_id="12" table_id="53">Goodbye.<!-- No --></string>
