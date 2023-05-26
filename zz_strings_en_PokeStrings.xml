@@ -331,8 +331,8 @@
 	<string id="1540497"> <!-- Victory --></string>
 	<string id="1540528">On cooldown...</string>
 	<!-- Kanto - Elite 4 - Bruno -->
-	<string id="1540623">Bruno Story?</string>
-	<string id="1540876">Bruno Post Story?</string>
+	<string id="1540623">Bruno Story?<!-- Challenge --></string>
+	<string id="1540876">Bruno Post Story?<!-- Challenge --></string>
 	<string id="1541129"> <!-- Victory --></string>
 	<string id="1541152">On cooldown...</string>
 	<!-- Kanto - Elite 4 - Agatha -->

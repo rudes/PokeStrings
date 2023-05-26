@@ -19,18 +19,26 @@ PokéMMO custom strings to skip or shorten dialogue. Does not remove PokéMMO st
 
 [Slepea](https://github.com/LostPast/Pokemmo_strings_en_slepea), [nurver, realmadrid1809 and AnonymousPoke](https://forums.pokemmo.com/index.php?/topic/150771-docs-localization-files-understanding-syntax-and-load-order/). Shoutout to Fretzi(E4) and Easy4v1(Trainers) for research and testing.
 
-## Support
+## Features
 
-- [x] Breeding
-- [x] All Safari Zones
 - [x] Berry Farming
-- [x] Pokémon Centers (Mom included)
-- [x] Various Vendors
-- [x] Region Change Ferry
+- [x] Breeding
+- [x] Caught/Sent to PC
+- [x] Fishing
+- [x] Fossil Exchange
+- [x] Hoenn Bike Exchange
 - [x] Mushroom Move Master
-- [x] Pickup/Found and Horde Death
 - [x] Overworld HMs and Ocarinas
+- [x] Pickup/Found and Multi-kill
+- [x] Pokémart Vendors
+- [x] Pokémon Centers (Mom included)
+- [x] Region Change Ferry
+- [x] Repel/Lure
+- [x] Safari Zones
+- [x] Unova Shopping Mall
 - [x] Post-game
-	- [x] Gym Leaders
+	- [x] Cynthia
 	- [x] Elite Four
+	- [x] Gym Leaders
+	- [x] Morimoto
 	- [x] [Trainers](https://forums.pokemmo.com/index.php?/topic/148798-1-hour-trainer-rerun-guide/)
