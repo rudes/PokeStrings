@@ -21,6 +21,15 @@
 	<string id="6011">{00} ended.</string>
 	<string id="6012">Use another {00}?</string>
 
+	<!-- Hoenn Bike Exchange -->
+	<string id="270594555">Switch?<!-- BIKES --></string>
+	<string id="270594607"> <!-- Yes --></string>
+	<string id="270594756"> <!-- No --></string>
+	<string id="270594659">MACH BIKE</string>
+	<string id="270594708">ACRO BIKE</string>
+	<string id="270594493"> <!-- Goodbye --></string>
+	<string id="271002232">{03}!<!-- Obtain message --></string>
+
 	<!-- General Breeding -->
 	<string id="16779080">Breed?</string>
 	<string id="16779081">Not enough {STRING_0}...<!-- only one pokemon --></string>
