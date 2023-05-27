@@ -84,7 +84,7 @@
 
 	<!-- ELITE FOUR -->
 	<!-- Sinnoh - Elite 4 - Warden -->
-	<string block_id="0" entry_id="3" table_id="184">Good luck!<!-- you have the badges --></string>
+	<string block_id="0" entry_id="3" table_id="184"> <!-- you have the badges --></string>
 	<string block_id="0" entry_id="4" table_id="184">Good luck!<!-- you better beat all 4 --></string>
 	<!-- Sinnoh - Elite 4 - Aaron -->
 	<string block_id="0" entry_id="0" table_id="185"> <!-- Challenge --></string>
@@ -116,15 +116,13 @@
 	<string block_id="0" entry_id="2" table_id="190"> <!-- hi rowan --></string>
 	<string block_id="0" entry_id="3" table_id="190"> <!-- rowan really loves this kid --></string>
 	<string block_id="0" entry_id="4" table_id="190"> <!-- awww rowan so cute --></string>
-	<string block_id="0" entry_id="5" table_id="190">Story?<!-- step this way --></string>
-	<string block_id="0" entry_id="6" table_id="190">Post Story?<!-- step this way --></string>
+	<string block_id="0" entry_id="5" table_id="190"> <!-- step this way --></string>
 	<string block_id="0" entry_id="7" table_id="190"> <!-- join us rowan --></string>
-	<string block_id="0" entry_id="8" table_id="190">(8)?<!-- Empty String?? --></string>
+	<string block_id="0" entry_id="8" table_id="190"> <!-- Empty String?? --></string>
 	<string block_id="0" entry_id="1" table_id="191"> <!-- rowan wishes he was a pokemon master --></string>
 	<string block_id="0" entry_id="3" table_id="191"> <!-- cynthia loves champions --></string>
-	<string block_id="0" entry_id="4" table_id="191">Story?<!-- hall of famer --></string>
-	<string block_id="0" entry_id="5" table_id="191">Post Story?<!-- hall of famer --></string>
-	<string block_id="0" entry_id="6" table_id="191">GG.<!-- hall of famer --></string>
+	<string block_id="0" entry_id="4" table_id="191"> <!-- hall of famer --></string>
+	<string block_id="0" entry_id="6" table_id="191"> <!-- hall of famer --></string>
 
 	<!-- GYM LEADERS -->
 	<!-- Sinnoh - Oreburgh City - Roark -->

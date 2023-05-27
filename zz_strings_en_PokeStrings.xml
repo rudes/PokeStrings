@@ -331,8 +331,7 @@
 	<string id="1540497"> <!-- Victory --></string>
 	<string id="1540528">On cooldown...</string>
 	<!-- Kanto - Elite 4 - Bruno -->
-	<string id="1540623">Bruno Story?<!-- Challenge --></string>
-	<string id="1540876">Bruno Post Story?<!-- Challenge --></string>
+	<string id="1540623"> <!-- Challenge --></string>
 	<string id="1541129"> <!-- Victory --></string>
 	<string id="1541152">On cooldown...</string>
 	<!-- Kanto - Elite 4 - Agatha -->
@@ -355,7 +354,8 @@
 	<string id="1544751"> <!-- Hall of famer! --></string>
 
 	<!-- Hoenn - Elite 4 - Warden -->
-	<string id="270702312">Good luck.</string>
+	<string id="270702312"> <!-- Badge Check --></string>
+	<string id="270702575">Good luck.<!-- Believe in yourself --></string>
 	<!-- Hoenn - Elite 4 - Sidney -->
 	<string id="270696359"> <!-- Challenge --></string>
 	<string id="270696610"> <!-- Victory --></string>
@@ -387,6 +387,10 @@
 	<string id="270701547"> <!-- Wallace telling the rival to get bent --></string>
 	<string id="270701689"> <!-- May Pouting --></string>
 	<string id="270701813"> <!-- Brendan Pouting --></string>
+	<string id="271211820">Seen {02}\nCaught {03}</string>
+	<string id="271213373">Nationwide\nSeen {02}\nCaught {03}</string>
+	<string id="270702862"> <!-- This Room --></string>
+	<string id="270703011"> <!-- Record Pokemon --></string>
 
 	<!-- "better" halloween strings ; thanks nurver -->
 	<string id="101608">Restores 25% HP when eaten.\nWhen fighting Pumpking, clears\nstat modifications from allied field.</string>
