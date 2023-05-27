@@ -129,18 +129,15 @@
 	<!-- GYM LEADERS -->
 	<!-- Sinnoh - Oreburgh City - Roark -->
 	<string block_id="0" entry_id="0" table_id="67"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="5" table_id="617">Story?<!-- Combat Victory --></string>
-	<string block_id="0" entry_id="2440" table_id="617">Post Story?<!-- Combat Victory --></string>
+	<string block_id="0" entry_id="5" table_id="617"> <!-- Combat Victory --></string>
 	<string block_id="0" entry_id="5" table_id="67">On Cooldown...</string>
 	<!-- Sinnoh - Eterna City - Gardenia -->
 	<string block_id="0" entry_id="0" table_id="87"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1227" table_id="617">Story?<!-- Combat Victory --></string>
-	<string block_id="0" entry_id="2442" table_id="617">Post Story?<!-- Combat Victory --></string>
+	<string block_id="0" entry_id="1227" table_id="617"> <!-- Combat Victory --></string>
 	<string block_id="0" entry_id="5" table_id="87">On Cooldown...</string>
 	<!-- Sinnoh - Hearthome City - Fantina -->
 	<string block_id="0" entry_id="0" table_id="109"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1290" table_id="617">Story?<!-- Combat Victory --></string>
-	<string block_id="0" entry_id="2448" table_id="617">Post Story?<!-- Combat Victory --></string>
+	<string block_id="0" entry_id="1290" table_id="617"> <!-- Combat Victory --></string>
 	<string block_id="0" entry_id="5" table_id="109">On Cooldown...</string>
 	<!-- Sinnoh - Veilstone City - Maylene -->
 	<string block_id="0" entry_id="0" table_id="144"> <!-- Challenge --></string>
