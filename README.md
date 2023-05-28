@@ -27,6 +27,7 @@ PokéMMO custom strings to skip or shorten dialogue. Does not remove PokéMMO st
 - [x] Fishing
 - [x] Fossil Exchange
 - [x] Hoenn Bike Exchange
+- [x] Move Learning
 - [x] Mushroom Move Master
 - [x] Overworld HMs and Ocarinas
 - [x] Pickup/Found and Multi-kill
