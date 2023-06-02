@@ -8,6 +8,8 @@ PokéMMO custom strings to skip or shorten dialogue. Does not remove PokéMMO st
 
 ## Install
 
+**Disclaimer**: This pack does not create a new language option it uses the default English option.
+
 1. Set language in-game to English
 2. Close PokeMMO
 3. Remove any custom strings you have for English (en) from `...\PokeMMO\data\strings`
