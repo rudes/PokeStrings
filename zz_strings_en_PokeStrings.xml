@@ -103,6 +103,25 @@
 	<string id="1715589"> </string>
 	<string id="1715635"> </string>
 
+	<!-- Move Tutors -->
+	<string id="16779000"> <!-- Greeting --></string>
+	<string id="16779002">Tutor?</string>
+	<string id="16779004">Goodbye.</string>
+	<string id="16779003">Which?</string>
+	<string id="16779005">Another?</string>
+	<string id="16779052">{00}x {01}?</string>
+	<string id="16779054">{00}x {01} and\n{02}x {03}?</string>
+
+	<!-- Move Re-Learner -->
+	<string id="16779020"> <!-- Greeting --></string>
+	<string id="16779022">Relearn or Forget?</string>
+	<string id="16779023">I see. Come back if you change your mind.</string>
+	<string id="16779031">Which?</string>
+	<string id="16779032">${00} for {01} on {02}?</string>
+	<string id="16779033">{00} forgot {01}!</string>
+	<string id="16779034">Another?</string>
+	<string id="16779035">Which?</string>
+
 	<!-- HMs -->
 	<!-- Restore PP -->
 	<string id="8600">+PP {01}?</string>
