@@ -4,7 +4,7 @@
 		Strings used in Kanto and Hoenn found in the
 		dump_BPR_en.xml and dump_BPE_en.xml files respectively.
 	-->
-	<!-- Shedninja Warning -->
+	<!-- Shedinja Warning -->
 	<string id="2565">Level {00} - Space in party with a {STRING_245004}\nWarning: Only keeps 3 random IVs</string>
 	<!-- Feinting multiple Pokemon at once -->
 	<string id="200436">{01} at once!</string>

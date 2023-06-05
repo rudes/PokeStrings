@@ -16,6 +16,7 @@ PokéMMO custom strings to skip or shorten dialogue. Does not remove PokéMMO st
 4. Unzip the PokeStrings Folder
 5. Copy **ONLY** and **ALL** the XML files to your `...\PokeMMO\data\strings` folder
 	- yes even the placeholder one
+6. **MAC USERS** rename the file `zz_strings_en_PokeStrings.xml` to `PokeStrings_mac.xml`
 
 ## Credits
 
