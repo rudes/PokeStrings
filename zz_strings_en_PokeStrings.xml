@@ -130,55 +130,55 @@
 	<!-- Ocarina Text -->
 	<string id="16780155">\n</string>
 	<!-- Hoenn - Cut -->
-	<string id="271124270">Cut?</string>
-	<string id="271124337"> </string>
+	<string id="271124270">\n<!-- Cut --></string>
+	<string id="271124337">\n</string>
 	<string id="271124349">No Cut</string>
 	<!-- Hoenn - Surf -->
-	<string id="271003606">Surf?</string>
-	<string id="271003661"> </string>
-	<!-- Hoenn - Rocksmash -->
-	<string id="271124538">SMASH?</string>
+	<string id="271003606">\n<!-- Surf --></string>
+	<string id="271003661">\n</string>
+	<!-- Hoenn - Rock Smash -->
+	<string id="271124538">\n<!-- Rock smash --></string>
 	<string id="271124607">No Rocksmash</string>
 	<!-- Hoenn - Strength -->
-	<string id="271124780">STRENGTH?</string>
-	<string id="271124876"> </string>
+	<string id="271124780">\n<!-- Strength --></string>
+	<string id="271124876">\n</string>
 	<string id="271124950">No Strength</string>
-	<string id="271125014"> </string>
+	<string id="271125014">\n</string>
 	<!-- Hoenn - Dive -->
 	<string id="271125418">No Dive</string>
 	<string id="271125480">DIVE?</string>
-	<string id="271125530"> </string>
+	<string id="271125530">\n</string>
 	<string id="271125544">No Dive</string>
 	<string id="271125614">DIVE?</string>
 	<!-- Hoenn - Waterfall -->
 	<string id="271125134">No Waterfall</string>
-	<string id="271125187">WATERFALL?</string>
-	<string id="271125244"> </string>
+	<string id="271125187">\n<!-- Waterfall --></string>
+	<string id="271125244">\n</string>
 
 	<!-- Kanto - Surf -->
-	<string id="1725806">SURF?</string>
-	<string id="1725861"> </string>
+	<string id="1725806">\n<!-- Surf --></string>
+	<string id="1725861">\n</string>
 	<!-- Kanto - Strength -->
-	<string id="1827226">STRENGTH?</string>
-	<string id="1827322"> </string>
+	<string id="1827226">\n<!-- Strength --></string>
+	<string id="1827322">\n</string>
 	<string id="1827396">No Strength</string>
-	<string id="1827460"> </string>
+	<string id="1827460">\n</string>
 	<!-- Kanto - Waterfall -->
 	<string id="1827594">No Waterfall</string>
-	<string id="1827647">WATERFALL?</string>
-	<string id="1827704"> </string>
+	<string id="1827647">\n<!-- Waterfall --></string>
+	<string id="1827704">\n</string>
 	<!-- Kanto - Dive -->
 	<string id="1827883">No Dive</string>
 	<string id="1827945">DIVE?</string>
-	<string id="1827995"> </string>
+	<string id="1827995">\n</string>
 	<string id="1828009">No Dive</string>
 	<string id="1828079">DIVE?</string>
 	<!-- Kanto - Cut -->
-	<string id="1826708">Cut?</string>
-	<string id="1826775"> </string>
-	<string id="1826787"> </string>
+	<string id="1826708">\n<!-- Cut --></string>
+	<string id="1826775">\n</string>
+	<string id="1826787">\n</string>
 	<!-- Kanto - Rocksmash -->
-	<string id="1826973">SMASH?</string>
+	<string id="1826973">\n<!-- Rock Smash --></string>
 	<string id="1827042">No Rocksmash</string>
 
 	<!-- Safari -->
