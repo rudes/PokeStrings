@@ -24,63 +24,63 @@
 	<string id="6012">Use another {00}?</string>
 
 	<!-- Hoenn Bike Exchange -->
-	<string id="270594555">Switch?<!-- BIKES --></string>
-	<string id="270594607"> <!-- Yes --></string>
-	<string id="270594756"> <!-- No --></string>
+	<string id="270594555">\n<!-- BIKES --></string>
+	<string id="270594607">\n<!-- Yes --></string>
+	<string id="270594756">\n<!-- No --></string>
 	<string id="270594659">ACRO BIKE</string>
 	<string id="270594708">MACH BIKE</string>
-	<string id="270594493"> <!-- Goodbye --></string>
+	<string id="270594493">\n<!-- Goodbye --></string>
 	<string id="271002232">{03}!<!-- Obtain message --></string>
 
 	<!-- General Breeding -->
-	<string id="16779080">Breed?</string>
+	<string id="16779080">\n<!-- Breed --></string>
 	<string id="16779081">Not enough {STRING_0}...<!-- only one pokemon --></string>
-	<string id="16779082">Positive?</string>
-	<string id="16779083"> <!-- which pokemon --></string>
-	<string id="16779087">Egg?</string>
+	<string id="16779082">\n<!-- Positive --></string>
+	<string id="16779083">\n<!-- which pokemon --></string>
+	<string id="16779087">\n<!-- egg? --></string>
 	<string id="16779091">♂/♀?</string>
 	<string id="16779092">♂/♀?</string>
 	<string id="16779093">+${00}?</string>
-	<string id="16777221">Which {STRING_245004}?<!-- pokeball --></string>
+	<string id="16777221">\n<!-- pokeball --></string>
 	<!-- Bracer Vendor -->
-	<string id="16779070"> </string>
+	<string id="16779070">\n</string>
 	<!--Breeding Egg Messages - Kanto-->
-	<string id="1832746"> <!-- received EGG --></string>
-	<string id="1832789"> <!-- take care --></string>
+	<string id="1832746">\n<!-- received EGG --></string>
+	<string id="1832789">\n<!-- take care --></string>
 	<!--Breeding Egg Messages - Hoenn-->
-	<string id="271131044"> <!-- received EGG --></string>
-	<string id="271131087"> <!-- take care --></string>
+	<string id="271131044">\n<!-- received EGG --></string>
+	<string id="271131087">\n<!-- take care --></string>
 
 	<!-- PC Text -->
-	<string id="2350">PC</string>
+	<string id="2350">\n</string>
 
 	<!-- Kanto Pokecenter -->
-	<string id="1725571"> </string>
-	<string id="1725665"> </string>
-	<string id="1725713"> </string>
-	<string id="1725739"> </string>
+	<string id="1725571">\n</string>
+	<string id="1725665">\n</string>
+	<string id="1725713">\n</string>
+	<string id="1725739">\n</string>
 	<!-- Kanto - Nurse Mom -->
 	<string id="1627089">Rest?</string>
-	<string id="1627128"> <!-- Goodbye --></string>
+	<string id="1627128">\n<!-- Goodbye --></string>
 	<!-- Kanto Vendors -->
-	<string id="1729041"> <!-- Shop --></string>
-	<string id="1724816"> <!-- Goodbye --></string>
+	<string id="1729041">\n<!-- Shop --></string>
+	<string id="1724816">\n<!-- Goodbye --></string>
 
 	<!-- Hoenn Pokecenter -->
-	<string id="271001323"> </string>
-	<string id="271001496"> </string>
-	<string id="271001563"> </string>
-	<string id="271002048"> </string>
-	<string id="271001589"> </string>
+	<string id="271001323">\n</string>
+	<string id="271001496">\n</string>
+	<string id="271001563">\n</string>
+	<string id="271002048">\n</string>
+	<string id="271001589">\n</string>
 	<!-- Hoenn - Nurse Mom -->
 	<string id="270499080">Rest?</string>
-	<string id="270499164"> <!-- Goodbye --></string>
+	<string id="270499164">\n<!-- Goodbye --></string>
 	<!-- Hoenn Vendors -->
-	<string id="271002145"> <!-- Shop --></string>
-	<string id="271002175"> <!-- Goodbye --></string>
+	<string id="271002145">\n<!-- Shop --></string>
+	<string id="271002175">\n<!-- Goodbye --></string>
 	<!-- Hoenn - Battlepoint Vendors -->
-	<string id="270923770"> <!-- Shop --></string>
-	<string id="270925586"> <!-- Goodbye --></string>
+	<string id="270923770">\n<!-- Shop --></string>
+	<string id="270925586">\n<!-- Goodbye --></string>
 
 	<!-- Mailman -->
 	<string id="16780150">Send mail?</string>
@@ -89,24 +89,24 @@
 	<!-- Mom Region Return -->
 	<string id="16780130">Miss {00}?</string>
 	<!-- Region Ferry -->
-	<string id="16780100">Travel?</string>
+	<string id="16780100">\n<!-- Greeting --></string>
 	<string id="16780102">Leaving will send your {STRING_0} to the PC.</string>
-	<string id="16780103"> </string>
-	<string id="16780104"> </string>
+	<string id="16780103">\n</string>
+	<string id="16780104">\n</string>
 	<string id="16780105">PC is full.</string>
 
 	<!-- Mushroom Move Master -->
-	<string id="16778100">I'm the Move Maniac.</string>
+	<string id="16778100">\n<!-- Greeting --></string>
 	<string id="16778102">need {00}(s)</string>
 	<string id="16778103">need {00}(s)/{01}(s)</string>
-	<string id="1715299"> </string>
-	<string id="1715523"> </string>
-	<string id="1715680"> </string>
-	<string id="1715589"> </string>
-	<string id="1715635"> </string>
+	<string id="1715299">\n</string>
+	<string id="1715523">\n</string>
+	<string id="1715680">\n</string>
+	<string id="1715589">\n</string>
+	<string id="1715635">\n</string>
 
 	<!-- Move Tutors -->
-	<string id="16779000"> <!-- Greeting --></string>
+	<string id="16779000">\n<!-- Greeting --></string>
 	<string id="16779002">Tutor?</string>
 	<string id="16779004">Goodbye.</string>
 	<string id="16779003">Which?</string>
@@ -115,7 +115,7 @@
 	<string id="16779054">{00}x {01} and\n{02}x {03}?</string>
 
 	<!-- Move Re-Learner -->
-	<string id="16779020"> <!-- Greeting --></string>
+	<string id="16779020">\n<!-- Greeting --></string>
 	<string id="16779022">Relearn or Forget?</string>
 	<string id="16779023">I see. Come back if you change your mind.</string>
 	<string id="16779031">Which?</string>
@@ -240,8 +240,8 @@
 
 	<string id="16780320">Almost dry.</string>
 	<string id="16780321">Almost flooded.</string>
-	<string id="16780326">Plant?</string>
-	<string id="16780327">Water{00}?</string>
+	<string id="16780326">\n<!-- Plant? --></string>
+	<string id="16780327">\n<!-- Water? --></string>
 	<string id="16780328">Watered.</string>
 
 	<string id="16780329">{01} {00}!\n\nPick? {00}?</string>
