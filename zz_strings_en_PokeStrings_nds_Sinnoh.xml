@@ -8,15 +8,15 @@
 	<string block_id="0" entry_id="54" table_id="213">..</string>
 
 	<!-- Breeding Egg Messages -->
-	<string block_id="0" entry_id="5" table_id="547"> <!-- received egg --></string>
-	<string block_id="0" entry_id="6" table_id="547"> <!-- take care--></string>
+	<string block_id="0" entry_id="5" table_id="547">\n<!-- received egg --></string>
+	<string block_id="0" entry_id="6" table_id="547">\n<!-- take care--></string>
 
 	<!-- Sinnoh Safari Zone -->
 	<string block_id="0" entry_id="0" table_id="136">$500?</string>
-	<string block_id="0" entry_id="1" table_id="136"> </string>
-	<string block_id="0" entry_id="2" table_id="136"> </string>
-	<string block_id="0" entry_id="3" table_id="136"> </string>
-	<string block_id="0" entry_id="4" table_id="136"> </string>
+	<string block_id="0" entry_id="1" table_id="136">\n</string>
+	<string block_id="0" entry_id="2" table_id="136">\n</string>
+	<string block_id="0" entry_id="3" table_id="136">\n</string>
+	<string block_id="0" entry_id="4" table_id="136">\n</string>
 	<string block_id="0" entry_id="9" table_id="136">Leaving Early?</string>
 	<string block_id="0" entry_id="10" table_id="136">Good Bye!</string>
 	<string block_id="0" entry_id="0" table_id="538">Time's up!</string>
@@ -24,15 +24,15 @@
 	<string block_id="0" entry_id="2" table_id="538">PC Full!</string>
 
 	<!-- Vendors -->
-	<string block_id="0" entry_id="37" table_id="213"> <!-- Shop --></string>
+	<string block_id="0" entry_id="37" table_id="213">\n<!-- Shop --></string>
 	<!--Pokémon Center-->
-	<string block_id="0" entry_id="0" table_id="213"> </string>
-	<string block_id="0" entry_id="1" table_id="213"> </string>
-	<string block_id="0" entry_id="2" table_id="213"> </string>
-	<string block_id="0" entry_id="3" table_id="213"> </string>
-	<string block_id="0" entry_id="4" table_id="213"> </string>
-	<string block_id="0" entry_id="120" table_id="213"> </string>
-	<string block_id="0" entry_id="121" table_id="213"> </string>
+	<string block_id="0" entry_id="0" table_id="213">\n</string>
+	<string block_id="0" entry_id="1" table_id="213">\n</string>
+	<string block_id="0" entry_id="2" table_id="213">\n</string>
+	<string block_id="0" entry_id="3" table_id="213">\n</string>
+	<string block_id="0" entry_id="4" table_id="213">\n</string>
+	<string block_id="0" entry_id="120" table_id="213">\n</string>
+	<string block_id="0" entry_id="121" table_id="213">\n</string>
 	<!-- Sinnoh - Nurse Mom - Before healing -->
 	<string block_id="0" entry_id="11" table_id="557">Rest?<!-- Morning Rest --></string>
 	<string block_id="0" entry_id="12" table_id="557">Rest?<!-- Afternoon Rest --></string>
@@ -45,260 +45,260 @@
 	<string block_id="0" entry_id="40" table_id="557">Good luck!<!-- I miss you --></string>
 
 	<!-- Fossil hatching -->
-	<string block_id="0" entry_id="1" table_id="79"> <!-- greeting --></string>
+	<string block_id="0" entry_id="1" table_id="79">\n<!-- greeting --></string>
 	<string block_id="0" entry_id="2" table_id="79">Convert Fossil?</string>
-	<string block_id="0" entry_id="4" table_id="79"> <!-- accept --></string>
-	<string block_id="0" entry_id="5" table_id="79"> <!-- decline --></string>
+	<string block_id="0" entry_id="4" table_id="79">\n<!-- accept --></string>
+	<string block_id="0" entry_id="5" table_id="79">\n<!-- decline --></string>
 	<string block_id="0" entry_id="7" table_id="79">GG.</string>
-	<string block_id="0" entry_id="8" table_id="79"> <!-- collected pokemon --></string>
+	<string block_id="0" entry_id="8" table_id="79">\n<!-- collected pokemon --></string>
 	<string block_id="0" entry_id="9" table_id="79">Nickname?</string>
 	<string block_id="0" entry_id="10" table_id="79">Party is full.</string>
 	<string block_id="0" entry_id="11" table_id="79">Bring me a Fossil.</string>
 
 	<!-- HMs -->
 	<string block_id="0" entry_id="0" table_id="381">Cut?</string>
-	<string block_id="0" entry_id="1" table_id="381"> <!-- used cut --></string>
+	<string block_id="0" entry_id="1" table_id="381">\n<!-- used cut --></string>
 	<string block_id="0" entry_id="2" table_id="381">No Cut.</string>
 	<string block_id="0" entry_id="3" table_id="381">Rock Smash?</string>
-	<string block_id="0" entry_id="5" table_id="381"> <!-- used rock smash --></string>
+	<string block_id="0" entry_id="5" table_id="381">\n<!-- used rock smash --></string>
 	<string block_id="0" entry_id="4" table_id="381">No Rock Smash.</string>
-	<string block_id="0" entry_id="7" table_id="381"> <!-- Empty strength string --></string>
-	<string block_id="0" entry_id="9" table_id="381"> <!-- strength enabled --></string>
-	<string block_id="0" entry_id="11" table_id="381"> <!-- strength enabled --></string>
+	<string block_id="0" entry_id="7" table_id="381">\n<!-- Empty strength string --></string>
+	<string block_id="0" entry_id="9" table_id="381">\n<!-- strength enabled --></string>
+	<string block_id="0" entry_id="11" table_id="381">\n<!-- strength enabled --></string>
 	<string block_id="0" entry_id="6" table_id="381">Strength?</string>
-	<string block_id="0" entry_id="10" table_id="381"> <!-- used strength --></string>
+	<string block_id="0" entry_id="10" table_id="381">\n<!-- used strength --></string>
 	<string block_id="0" entry_id="8" table_id="381">No Strength.</string>
 	<string block_id="0" entry_id="12" table_id="381">Surf?</string>
-	<string block_id="0" entry_id="13" table_id="381"> <!-- used surf --></string>
+	<string block_id="0" entry_id="13" table_id="381">\n<!-- used surf --></string>
 	<string block_id="0" entry_id="15" table_id="381">Defog?</string>
-	<string block_id="0" entry_id="16" table_id="381"> <!-- used defog --></string>
+	<string block_id="0" entry_id="16" table_id="381">\n<!-- used defog --></string>
 	<string block_id="0" entry_id="17" table_id="381">No Defog.</string>
 	<string block_id="0" entry_id="18" table_id="381">Rock Climb?</string>
-	<string block_id="0" entry_id="19" table_id="381"> <!-- used rock climb --></string>
+	<string block_id="0" entry_id="19" table_id="381">\n<!-- used rock climb --></string>
 	<string block_id="0" entry_id="20" table_id="381">No Rock Climb.</string>
-	<string block_id="0" entry_id="25" table_id="381"> <!-- Empty waterfall string --></string>
+	<string block_id="0" entry_id="25" table_id="381">\n<!-- Empty waterfall string --></string>
 	<string block_id="0" entry_id="22" table_id="381">Waterfall?</string>
-	<string block_id="0" entry_id="23" table_id="381"> <!-- used waterfall --></string>
+	<string block_id="0" entry_id="23" table_id="381">\n<!-- used waterfall --></string>
 	<string block_id="0" entry_id="24" table_id="381">No Waterfall.</string>
-	<string block_id="0" entry_id="26" table_id="381"> <!-- used flash --></string>
+	<string block_id="0" entry_id="26" table_id="381">\n<!-- used flash --></string>
 
 	<!-- ELITE FOUR -->
 	<!-- Sinnoh - Elite 4 - Warden -->
-	<string block_id="0" entry_id="3" table_id="184"> <!-- you have the badges --></string>
+	<string block_id="0" entry_id="3" table_id="184">\n<!-- you have the badges --></string>
 	<string block_id="0" entry_id="4" table_id="184">Good luck!<!-- you better beat all 4 --></string>
 	<!-- Sinnoh - Elite 4 - Aaron -->
-	<string block_id="0" entry_id="0" table_id="185"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1968" table_id="617"> <!-- Combat Vicotry --></string>
-	<string block_id="0" entry_id="1" table_id="185"> <!-- Victory Dialogue --></string>
+	<string block_id="0" entry_id="0" table_id="185">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1968" table_id="617">\n<!-- Combat Vicotry --></string>
+	<string block_id="0" entry_id="1" table_id="185">\n<!-- Victory Dialogue --></string>
 	<string block_id="0" entry_id="2" table_id="185">On Cooldown..</string>
 	<!-- Sinnoh - Elite 4 - Bertha -->
-	<string block_id="0" entry_id="0" table_id="186"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1970" table_id="617"> <!-- Combat Vicotry --></string>
-	<string block_id="0" entry_id="1" table_id="186"> <!-- Victory Dialogue --></string>
+	<string block_id="0" entry_id="0" table_id="186">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1970" table_id="617">\n<!-- Combat Vicotry --></string>
+	<string block_id="0" entry_id="1" table_id="186">\n<!-- Victory Dialogue --></string>
 	<string block_id="0" entry_id="2" table_id="186">On Cooldown..</string>
 	<!-- Sinnoh - Elite 4 - Flint -->
-	<string block_id="0" entry_id="4" table_id="187"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1973" table_id="617"> <!-- Combat Vicotry --></string>
-	<string block_id="0" entry_id="5" table_id="187"> <!-- Victory Dialogue --></string>
+	<string block_id="0" entry_id="4" table_id="187">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1973" table_id="617">\n<!-- Combat Vicotry --></string>
+	<string block_id="0" entry_id="5" table_id="187">\n<!-- Victory Dialogue --></string>
 	<string block_id="0" entry_id="6" table_id="187">On Cooldown..</string>
 	<!-- Sinnoh - Elite 4 - Lucian -->
-	<string block_id="0" entry_id="0" table_id="188"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1975" table_id="617"> <!-- Combat Vicotry --></string>
-	<string block_id="0" entry_id="1" table_id="188"> <!-- Victory Dialogue --></string>
+	<string block_id="0" entry_id="0" table_id="188">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1975" table_id="617">\n<!-- Combat Vicotry --></string>
+	<string block_id="0" entry_id="1" table_id="188">\n<!-- Victory Dialogue --></string>
 	<string block_id="0" entry_id="2" table_id="188">On Cooldown..</string>
 	<!-- Sinnoh - Elite 4 - Cynthia/Rowan -->
-	<string block_id="0" entry_id="3" table_id="189"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1978" table_id="617"> <!-- Combat Vicotry --></string>
-	<string block_id="0" entry_id="1" table_id="189"> <!-- Victory Dialogue --></string>
-	<string block_id="0" entry_id="2" table_id="189"> <!-- go to elevator --></string>
-	<string block_id="0" entry_id="0" table_id="190"> <!-- this is the hall of fame --></string>
-	<string block_id="0" entry_id="1" table_id="190"> <!-- rowan shows respect --></string>
-	<string block_id="0" entry_id="2" table_id="190"> <!-- hi rowan --></string>
-	<string block_id="0" entry_id="3" table_id="190"> <!-- rowan really loves this kid --></string>
-	<string block_id="0" entry_id="4" table_id="190"> <!-- awww rowan so cute --></string>
-	<string block_id="0" entry_id="5" table_id="190"> <!-- step this way --></string>
-	<string block_id="0" entry_id="7" table_id="190"> <!-- join us rowan --></string>
-	<string block_id="0" entry_id="8" table_id="190"> <!-- Empty String?? --></string>
-	<string block_id="0" entry_id="1" table_id="191"> <!-- rowan wishes he was a pokemon master --></string>
-	<string block_id="0" entry_id="3" table_id="191"> <!-- cynthia loves champions --></string>
-	<string block_id="0" entry_id="4" table_id="191"> <!-- hall of famer --></string>
-	<string block_id="0" entry_id="6" table_id="191"> <!-- hall of famer --></string>
+	<string block_id="0" entry_id="3" table_id="189">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1978" table_id="617">\n<!-- Combat Vicotry --></string>
+	<string block_id="0" entry_id="1" table_id="189">\n<!-- Victory Dialogue --></string>
+	<string block_id="0" entry_id="2" table_id="189">\n<!-- go to elevator --></string>
+	<string block_id="0" entry_id="0" table_id="190">\n<!-- this is the hall of fame --></string>
+	<string block_id="0" entry_id="1" table_id="190">\n<!-- rowan shows respect --></string>
+	<string block_id="0" entry_id="2" table_id="190">\n<!-- hi rowan --></string>
+	<string block_id="0" entry_id="3" table_id="190">\n<!-- rowan really loves this kid --></string>
+	<string block_id="0" entry_id="4" table_id="190">\n<!-- awww rowan so cute --></string>
+	<string block_id="0" entry_id="5" table_id="190">\n<!-- step this way --></string>
+	<string block_id="0" entry_id="7" table_id="190">\n<!-- join us rowan --></string>
+	<string block_id="0" entry_id="8" table_id="190">\n<!-- Empty String?? --></string>
+	<string block_id="0" entry_id="1" table_id="191">\n<!-- rowan wishes he was a pokemon master --></string>
+	<string block_id="0" entry_id="3" table_id="191">\n<!-- cynthia loves champions --></string>
+	<string block_id="0" entry_id="4" table_id="191">\n<!-- hall of famer --></string>
+	<string block_id="0" entry_id="6" table_id="191">\n<!-- hall of famer --></string>
 
 	<!-- GYM LEADERS -->
 	<!-- Sinnoh - Oreburgh City - Roark -->
-	<string block_id="0" entry_id="0" table_id="67"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="5" table_id="617"> <!-- Combat Victory --></string>
+	<string block_id="0" entry_id="0" table_id="67">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="5" table_id="617">\n<!-- Combat Victory --></string>
 	<string block_id="0" entry_id="5" table_id="67">On Cooldown...</string>
 	<!-- Sinnoh - Eterna City - Gardenia -->
-	<string block_id="0" entry_id="0" table_id="87"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1227" table_id="617"> <!-- Combat Victory --></string>
+	<string block_id="0" entry_id="0" table_id="87">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1227" table_id="617">\n<!-- Combat Victory --></string>
 	<string block_id="0" entry_id="5" table_id="87">On Cooldown...</string>
 	<!-- Sinnoh - Hearthome City - Fantina -->
-	<string block_id="0" entry_id="0" table_id="109"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1290" table_id="617"> <!-- Combat Victory --></string>
+	<string block_id="0" entry_id="0" table_id="109">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1290" table_id="617">\n<!-- Combat Victory --></string>
 	<string block_id="0" entry_id="5" table_id="109">On Cooldown...</string>
 	<!-- Sinnoh - Veilstone City - Maylene -->
-	<string block_id="0" entry_id="0" table_id="144"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1275" table_id="617"> <!-- Combat Victory --></string>
+	<string block_id="0" entry_id="0" table_id="144">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1275" table_id="617">\n<!-- Combat Victory --></string>
 	<string block_id="0" entry_id="5" table_id="144">On Cooldown...</string>
 	<!-- Sinnoh - Pastoria City - Crasher Wake -->
-	<string block_id="0" entry_id="0" table_id="133"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1242" table_id="617"> <!-- Combat Victory --></string>
+	<string block_id="0" entry_id="0" table_id="133">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1242" table_id="617">\n<!-- Combat Victory --></string>
 	<string block_id="0" entry_id="5" table_id="133">On Cooldown...</string>
 	<!-- Sinnoh - Canalave City - Byron -->
-	<string block_id="0" entry_id="0" table_id="56"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1163" table_id="617"> <!-- Combat Victory --></string>
+	<string block_id="0" entry_id="0" table_id="56">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1163" table_id="617">\n<!-- Combat Victory --></string>
 	<string block_id="0" entry_id="5" table_id="56">On Cooldown...</string>
 	<!-- Sinnoh - Snowpoint City - Candice -->
-	<string block_id="0" entry_id="0" table_id="178"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1317" table_id="617"> <!-- Combat Victory --></string>
+	<string block_id="0" entry_id="0" table_id="178">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1317" table_id="617">\n<!-- Combat Victory --></string>
 	<string block_id="0" entry_id="5" table_id="178">On Cooldown...</string>
 	<!-- Sinnoh - Sunyshore City - Volkner -->
-	<string block_id="0" entry_id="0" table_id="165"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1339" table_id="617"> <!-- Combat Victory --></string>
+	<string block_id="0" entry_id="0" table_id="165">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1339" table_id="617">\n<!-- Combat Victory --></string>
 	<string block_id="0" entry_id="5" table_id="165">On Cooldown...</string>
 
 	<!-- Sinnoh "trainer re-run" Trainers -->
 	<!-- Sinnoh - Route 214 - PI Carlos - $6000 -->
-	<string block_id="0" entry_id="604" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="602" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="604" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="602" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="603" table_id="617">On Cooldown..</string>
 
 	<!-- Sinnoh - Route 215 - Ace Trainer Dennis - $3,136 -->
-	<string block_id="0" entry_id="657" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="655" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="657" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="655" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="656" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Route 215 - Ace Trainer Maya - $3,136 -->
-	<string block_id="0" entry_id="661" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="659" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="661" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="659" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="660" table_id="617">On Cooldown..</string>
 
 	<!-- Sinnoh - Route 212 - Gentleman Jeremy - $3,920 -->
-	<string block_id="0" entry_id="431" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="429" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="431" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="429" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="430" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Route 212 - Socialite Reina - $4000 -->
-	<string block_id="0" entry_id="435" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="433" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="435" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="433" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="434" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Route 212 - Rich Boy Jason - $4000 -->
-	<string block_id="0" entry_id="423" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="421" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="423" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="421" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="422" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Route 212 - Lady Melissa - $4000 -->
-	<string block_id="0" entry_id="427" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="425" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="427" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="425" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="426" table_id="617">On Cooldown..</string>
 
 	<!-- Sinnoh - Route 222 - Rich Boy Trey - $4240 -->
-	<string block_id="0" entry_id="906" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="904" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="906" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="904" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="905" table_id="617">On Cooldown..</string>
 
 	<!-- Sinnoh - Route 226 - Ace Trainer Graham - $3,712 -->
-	<string block_id="0" entry_id="1638" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1636" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="1638" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1636" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="1637" table_id="617">On Cooldown..</string>
 
 	<!-- Sinnoh - Route 225 - Ace Trainer Quinn - $3,648 -->
-	<string block_id="0" entry_id="1634" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1632" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="1634" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1632" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="1633" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Route 225 - Ace Trainer Rodolfo - $3,648 -->
-	<string block_id="0" entry_id="1618" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1616" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="1618" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1616" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="1617" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Route 225 - Ranger Dwayne - $3,480 -->
-	<string block_id="0" entry_id="1690" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1688" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="1690" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1688" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="1689" table_id="617">On Cooldown..</string>
 
 	<!-- Sinnoh - Route 210 - Veteran Brian - $4,160 -->
-	<string block_id="0" entry_id="354" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="352" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="354" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="352" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="353" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Route 210 - Ace Trainer Ernest - $3,264 -->
-	<string block_id="0" entry_id="346" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="344" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="346" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="344" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="345" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Route 210 - Zac & Jen - $4,000 -->
-	<string block_id="0" entry_id="388" table_id="617"> <!-- Jen Challenge --></string>
-	<string block_id="0" entry_id="383" table_id="617"> <!-- Zac Challenge --></string>
-	<string block_id="0" entry_id="380" table_id="617"> <!-- Zac Victory Combat Text --></string>
+	<string block_id="0" entry_id="388" table_id="617">\n<!-- Jen Challenge --></string>
+	<string block_id="0" entry_id="383" table_id="617">\n<!-- Zac Challenge --></string>
+	<string block_id="0" entry_id="380" table_id="617">\n<!-- Zac Victory Combat Text --></string>
 	<string block_id="0" entry_id="386" table_id="617">On Cooldown..<!-- Jen --></string>
 	<string block_id="0" entry_id="381" table_id="617">On Cooldown..<!-- Zac --></string>
 	<!-- Sinnoh - Route 210 - Ace Trainer Alyssa - $3,200 -->
-	<string block_id="0" entry_id="350" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="348" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="350" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="348" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="349" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Route 210 - Belle Ava & Pa Matt - $5,264 -->
-	<string block_id="0" entry_id="330" table_id="617"> <!-- Ava Challenge --></string>
-	<string block_id="0" entry_id="325" table_id="617"> <!-- Matt Challenge --></string>
-	<string block_id="0" entry_id="322" table_id="617"> <!-- Matt Victory Combat Text --></string>
+	<string block_id="0" entry_id="330" table_id="617">\n<!-- Ava Challenge --></string>
+	<string block_id="0" entry_id="325" table_id="617">\n<!-- Matt Challenge --></string>
+	<string block_id="0" entry_id="322" table_id="617">\n<!-- Matt Victory Combat Text --></string>
 	<string block_id="0" entry_id="323" table_id="617">On Cooldown..<!-- Matt --></string>
 	<string block_id="0" entry_id="328" table_id="617">On Cooldown..<!-- Ava --></string>
 
 	<!-- Sinnoh - Route 229 - Ace Trainer Felix - $3,648 -->
-	<string block_id="0" entry_id="1630" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1628" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="1630" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1628" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="1629" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Route 229 - Ace Trainer Dana - $3,648 -->
-	<string block_id="0" entry_id="1650" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1648" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="1650" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1648" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="1649" table_id="617">On Cooldown..</string>
 
 	<!-- Sinnoh - Route 228 - Ace Trainer Meagan - $3,776 -->
-	<string block_id="0" entry_id="1658" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1656" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="1658" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1656" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="1657" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Route 228 - Ranger Kyler - $3,540 -->
-	<string block_id="0" entry_id="1682" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1680" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="1682" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1680" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="1681" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Route 228 - Ranger Krista - $3,540 -->
-	<string block_id="0" entry_id="1702" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1700" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="1702" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1700" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="1701" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Route 228 - Ace Trainer Moira - $3,712 -->
-	<string block_id="0" entry_id="1646" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1644" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="1646" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1644" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="1645" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Route 228 - Ace Trainer Jose - $3,712 -->
-	<string block_id="0" entry_id="1626" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1624" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="1626" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1624" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="1625" table_id="617">On Cooldown..</string>
 
 	<!-- Sinnoh - Route 227 - Ace Trainer Saul - $3,904 -->
-	<string block_id="0" entry_id="1622" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1620" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="1622" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1620" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="1621" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Route 227 - Ranger Felicia - $3,600 -->
-	<string block_id="0" entry_id="1698" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1696" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="1698" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1696" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="1697" table_id="617">On Cooldown..</string>
 
 	<!-- Sinnoh - Snowpoint City Gym - Ace Trainer Alicia - $3,960 -->
-	<string block_id="0" entry_id="1327" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1328" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="1327" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1328" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="1329" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Snowpoint City Gym - Ace Trainer Anton - $3,960 -->
-	<string block_id="0" entry_id="2329" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="2330" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="2329" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="2330" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="2331" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Snowpoint City Gym - Ace Trainer Savannah - $3,960 -->
-	<string block_id="0" entry_id="1324" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1325" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="1324" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1325" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="1326" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Snowpoint City Gym - Ace Trainer Isaiah - $3,960 -->
-	<string block_id="0" entry_id="1321" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1322" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="1321" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1322" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="1323" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Snowpoint City Gym - Ace Trainer Sergio - $3,960 -->
-	<string block_id="0" entry_id="1318" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="1319" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="1318" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="1319" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="1320" table_id="617">On Cooldown..</string>
 	<!-- Sinnoh - Snowpoint City Gym - Ace Trainer Brenna - $3,960 -->
-	<string block_id="0" entry_id="2332" table_id="617"> <!-- Challenge --></string>
-	<string block_id="0" entry_id="2333" table_id="617"> <!-- Victory Combat Text --></string>
+	<string block_id="0" entry_id="2332" table_id="617">\n<!-- Challenge --></string>
+	<string block_id="0" entry_id="2333" table_id="617">\n<!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="2334" table_id="617">On Cooldown..</string>
 </ds_strings_archive>

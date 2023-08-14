@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ds_strings_archive archive_type="0" lang="en" region_id="4">
+    <!-- Nurse Joy -->
+    <string block_id="0" entry_id="4" table_id="40">\n</string>
+    <string block_id="0" entry_id="7" table_id="40">\n</string>
+    <string block_id="0" entry_id="8" table_id="40">\n</string>
+    <string block_id="0" entry_id="9" table_id="40">\n</string>
+    <string block_id="0" entry_id="0" table_id="40">\n</string>
+    <string block_id="0" entry_id="1" table_id="40">\n</string>
+    <string block_id="0" entry_id="2" table_id="40">\n</string>
+    <string block_id="0" entry_id="3" table_id="40">\n</string>
+    <string block_id="0" entry_id="83" table_id="40">\n</string>
+    <string block_id="0" entry_id="84" table_id="40">\n</string>
+
+    <!-- Apricorn -->
+    <string block_id="0" entry_id="0" table_id="23">\n</string>
+    <string block_id="0" entry_id="1" table_id="23">\n</string>
+    <string block_id="0" entry_id="2" table_id="23">\n</string>
+    <string block_id="0" entry_id="3" table_id="23">\n</string>
+    <string block_id="0" entry_id="4" table_id="23">{01}!</string>
+    <string block_id="0" entry_id="25" table_id="40">\n</string>
+</ds_strings_archive>
