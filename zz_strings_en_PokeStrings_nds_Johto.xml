@@ -7,6 +7,7 @@
 	<!-- Pokémon Center -->
 	<string block_id="0" entry_id="83" table_id="40">\n<!-- Morning Greeting --></string>
 	<string block_id="0" entry_id="84" table_id="40">\n<!-- Greeting --></string>
+	<string block_id="0" entry_id="0" table_id="40">\n<!-- Greeting --></string>
 	<string block_id="0" entry_id="1" table_id="40"> <!-- Yes --></string>
 	<string block_id="0" entry_id="2" table_id="40"> <!-- Pokemon Restored --></string>
 	<string block_id="0" entry_id="3" table_id="40"> <!-- Come back again --></string>
