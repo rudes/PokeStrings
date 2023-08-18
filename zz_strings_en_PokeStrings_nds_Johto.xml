@@ -4,6 +4,11 @@
 		Strings used in Johto found in the dump_IPK_0_en.xml
 		Credit to Jashto
 	-->
+
+	<!-- Breeding Egg Messages -->
+    	<string block_id="0" entry_id="5" table_id="439">\n<!-- received egg --></string>
+    	<string block_id="0" entry_id="6" table_id="439">\n<!-- take care --></string>
+	
 	<!-- Pokémon Center -->
 	<string block_id="0" entry_id="83" table_id="40">\n<!-- Morning Greeting --></string>
 	<string block_id="0" entry_id="84" table_id="40">\n<!-- Greeting --></string>
@@ -32,6 +37,12 @@
 	<string block_id="0" entry_id="2" table_id="23">On Cooldown...</string>
 	<string block_id="0" entry_id="3" table_id="23"> <!-- Obtained --></string>
 	<string block_id="0" entry_id="4" table_id="23"> <!-- Placed in box --></string>
+
+	<!-- Apricorn Crafting -->
+    	<string block_id="0" entry_id="4" table_id="571">\n<!--You have Apricorns for me?--></string>
+    	<string block_id="0" entry_id="6" table_id="571">\n<!--Player declined to craft--></string>
+    	<string block_id="0" entry_id="8" table_id="571">\n<!--Kurt finished crafting--></string>
+    	<string block_id="0" entry_id="10" table_id="571">\n<!--Kurt admiring his work--></string>
 
 	<!-- HMs -->
 	<string block_id="0" entry_id="0" table_id="211">Cut?</string>
