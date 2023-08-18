@@ -318,14 +318,14 @@
 	<string id="270562807">On Cooldown...</string>
 	<string id="270562890">Only one {STRING_0}?</string>
 	<!-- Petalburg Puzzle Doors -->
-	<string id="270561822"> <!-- SPEED ROOM --></string>
-	<string id="270561920"> <!-- ACCURACY ROOM --></string>
-	<string id="270561979"> <!-- CONFUSION ROOM --></string>
-	<string id="270562039"> <!-- DEFENSE ROOM --></string>
-	<string id="270562097"> <!-- RECOVERY ROOM --></string>
-	<string id="270562156"> <!-- STRENGTH ROOM --></string>
-	<string id="270562215"> <!-- ONE-HIT KO ROOM --></string>
-	<string id="270562276"> <!-- GYM LEADER'S ROOM --></string>
+	<string id="270561822">\n<!-- SPEED ROOM --></string>
+	<string id="270561920">\n<!-- ACCURACY ROOM --></string>
+	<string id="270561979">\n<!-- CONFUSION ROOM --></string>
+	<string id="270562039">\n<!-- DEFENSE ROOM --></string>
+	<string id="270562097">\n<!-- RECOVERY ROOM --></string>
+	<string id="270562156">\n<!-- STRENGTH ROOM --></string>
+	<string id="270562215">\n<!-- ONE-HIT KO ROOM --></string>
+	<string id="270562276">\n<!-- GYM LEADER'S ROOM --></string>
 	<!-- Hoenn - Fortree City - Winona -->
 	<string id="270627072"> <!-- Challenge --></string>
 	<string id="270627302"> <!-- Victory --></string>
